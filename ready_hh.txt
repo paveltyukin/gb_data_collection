@@ -1,1 +1,530 @@
-Python Data Scientist	None	150 000 руб.	https://hh.ru/vacancy/36916080	hh.ruData Engineer - Sales Home	None	220 000 руб.	https://hh.ru/vacancy/37036573	hh.ruРуководитель локальной группы Data Science в г. Москва	None	None	https://hh.ru/vacancy/36672688	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36023475	hh.ruАналитик данных / BI аналитик	None	None	https://hh.ru/vacancy/37356801	hh.ruСпециалист Computer Vision (Data Scientist)	120 000 руб.	220 000 руб.	https://hh.ru/vacancy/37008803	hh.ruSenior data scientist	None	None	https://hh.ru/vacancy/37371627	hh.ruQA Engineer (PyCharm For Data Science)	None	150 000 руб.	https://hh.ru/vacancy/36415355	hh.ruJunior Python Developer for Imunify Security [Remote]	None	None	https://hh.ru/vacancy/37236151	hh.ruFullstack developer (middle)	120 000 руб.	180 000 руб.	https://hh.ru/vacancy/37172117	hh.ruScala Junior+ разработчик	None	45 000 руб.	https://hh.ru/vacancy/37303436	hh.ruBackend разработчик (Ruby, go, nodejs)	None	300 000 руб.	https://hh.ru/vacancy/37357158	hh.ruРазработчик Python Backend	None	150 000 руб.	https://hh.ru/vacancy/36916013	hh.ruPython Developer	None	None	https://hh.ru/vacancy/36752074	hh.ruМаркетолог по спецпроектам / Project-менеджер	80 000 руб.	None	https://hh.ru/vacancy/37054283	hh.ruQuality Engineer	None	None	https://hh.ru/vacancy/37216498	hh.ruSenior Data Science Engineer	None	None	https://hh.ru/vacancy/37097624	hh.ruSenior C/C++/Java Software Engineer (JVM, Open Source)	None	None	https://hh.ru/vacancy/36635711	hh.ruNLP Team Leader (PHD)	None	None	https://hh.ru/vacancy/37037088	hh.ruQA Engineer - Sales Home	None	220 000 руб.	https://hh.ru/vacancy/37036422	hh.ruIDE Tools integration Engineer	None	None	https://hh.ru/vacancy/37153275	hh.ruЮрист (кредитование МСБ)	None	None	https://hh.ru/vacancy/37226660	hh.ruFullstack developer - Sales Home	None	180 000 руб.	https://hh.ru/vacancy/37036308	hh.ruMachine Learning Research Engineer / Инженер отдела исследований и разработок	None	None	https://hh.ru/vacancy/36818130	hh.ruLogistics Quality Control Manager (Lesnoy Gorodok)	None	None	https://hh.ru/vacancy/37026920	hh.ruScala разработчик	None	80 000 руб.	https://hh.ru/vacancy/37242001	hh.ruМенеджер по привлечению инвестиций (Private Banking)	None	None	https://hh.ru/vacancy/37175073	hh.ruSolutions Consultant	None	None	https://hh.ru/vacancy/36988343	hh.ruСистемный аналитик / System Analyst	None	None	https://hh.ru/vacancy/37286859	hh.ruДизайнер лендингов / Web-дизайнер	None	None	https://hh.ru/vacancy/37121667	hh.ruSenior Software Engineer / TeamLead (Community, Open Source, Java Technology)	None	None	https://hh.ru/vacancy/36635698	hh.ruInformation Security Engineer	None	None	https://hh.ru/vacancy/37010694	hh.ruSenior Software Engineer (Java + JavaScript)	None	None	https://hh.ru/vacancy/37343344	hh.ruSenior IoT and AI Security Researcher	None	None	https://hh.ru/vacancy/37117708	hh.ruTools development engineer (OSS Tools, OSS Content/Demo)	None	None	https://hh.ru/vacancy/36635715	hh.ruIT Sales manager	None	None	https://hh.ru/vacancy/36999029	hh.ruMarketing Analyst	None	None	https://hh.ru/vacancy/36231758	hh.ruMarketing Analyst	None	None	https://hh.ru/vacancy/36231774	hh.ruSoftware Engineer (Cloud, Java)	None	None	https://hh.ru/vacancy/36635699	hh.ruBack-end C# software developer	None	150 000 руб.	https://hh.ru/vacancy/37120530	hh.ruJava Developer	None	None	https://hh.ru/vacancy/36759812	hh.ruSenior Software Engineer/ Full Stack	None	None	https://hh.ru/vacancy/36652037	hh.ruАналитик (Моделирование/Скоринг)	None	None	https://hh.ru/vacancy/35606831	hh.ruБизнес-аналитик (Performance & Service Specialist)	None	None	https://hh.ru/vacancy/36891703	hh.ruРазработчик ETL (ЕИСЖС)	None	None	https://hh.ru/vacancy/35786436	hh.ruDirector of Research and Analytics	None	None	https://hh.ru/vacancy/37250058	hh.ruCode reviewer (react)	None	None	https://hh.ru/vacancy/37351333	hh.ruВедущий аналитик (на проекты по DWH и BI)	None	None	https://hh.ru/vacancy/36880042	hh.ruИнженер-аналитик (data science)	None	None	https://hh.ru/vacancy/37288078	hh.ruИнженер-аналитик (data science)	None	None	https://hh.ru/vacancy/37032639	hh.ruData engineer (Data Science platform)	None	None	https://hh.ru/vacancy/37032737	hh.ruLocal Data Steward – Commercial	None	None	https://hh.ru/vacancy/37046458	hh.ruData Scientist (Computer Vision)	None	None	https://hh.ru/vacancy/36415870	hh.ruData engineer (Data Science platform)	None	None	https://hh.ru/vacancy/37280660	hh.ruHR менеджер (Data Science)	70 000 руб.	110 000 руб.	https://hh.ru/vacancy/37363543	hh.ruСпециалист по анализу изображений	None	None	https://hh.ru/vacancy/37086997	hh.ruГлавный менеджер по аналитике данных (Data Scientist)	None	None	https://hh.ru/vacancy/37364650	hh.ruBUSINESS ANALYST (Francophone countries)	None	None	https://hh.ru/vacancy/37375700	hh.ruSenior / Regular QA Automation Engineer	None	None	https://hh.ru/vacancy/37370191	hh.ruData Engineer	None	None	https://hh.ru/vacancy/37375448	hh.ruLead Analyst	None	None	https://hh.ru/vacancy/36776559	hh.ruКопирайтер	None	None	https://hh.ru/vacancy/37125133	hh.ruКоординатор студентов в Практикум	None	None	https://hh.ru/vacancy/36921747	hh.ruКуратор в Практикум на программу обучения «Интернет-маркетолог»	50 000 руб.	None	https://hh.ru/vacancy/37243032	hh.ruНаставник в Практикум на программу обучения "Веб-разработчик"	None	None	https://hh.ru/vacancy/37060370	hh.ruAnalyst (Management Consulting)	None	None	https://hh.ru/vacancy/37368447	hh.ruSenior QA Automation (Java) Engineer	None	None	https://hh.ru/vacancy/34661494	hh.ruSQL-программист	None	None	https://hh.ru/vacancy/35506618	hh.ruSenior QA Automation (Java) Engineer	None	None	https://hh.ru/vacancy/34719613	hh.ruНаставник в Практикум на программу обучения "Инженер по тестированию"	None	None	https://hh.ru/vacancy/37077289	hh.ruHead of Marketing Analytics	None	None	https://hh.ru/vacancy/37030488	hh.ruНаставник в Практикум на программу обучения "Бэкенд-разработчик"	None	None	https://hh.ru/vacancy/37027630	hh.ruSenior Data Analyst	None	None	https://hh.ru/vacancy/36413915	hh.ruМенеджер по анализу больших данных (Big data)	None	None	https://hh.ru/vacancy/36851890	hh.ruАналитик (социолог)	None	None	https://hh.ru/vacancy/36089360	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36160619	hh.ruSenior director (Supply Chain Management)	None	None	https://hh.ru/vacancy/37362444	hh.ruSenior Backend Developer (Java + Python)	None	None	https://hh.ru/vacancy/37368426	hh.ruCompiler Engineer	None	None	https://hh.ru/vacancy/37368686	hh.ruData Scientist	None	110 000 руб.	https://hh.ru/vacancy/37003152	hh.ruJava/Kotlin Software Engineer	None	None	https://hh.ru/vacancy/36607615	hh.ruData Engineer/ BI Developer	None	None	https://hh.ru/vacancy/36182291	hh.ruSoftware Engineer	None	None	https://hh.ru/vacancy/36891350	hh.ruАрхитектор ПО	None	None	https://hh.ru/vacancy/37374942	hh.ruSenior Product Manager (Core Team)	None	None	https://hh.ru/vacancy/36970950	hh.ruСтажер в Data Science Stream Департамента по управлению данными	40 000 руб.	40 000 руб.	https://hh.ru/vacancy/37356367	hh.ruData Scientists Middle/Senior	None	None	https://hh.ru/vacancy/35723655	hh.ruCode reviewer (Node.js)	None	None	https://hh.ru/vacancy/37153420	hh.ruData Analytics Intern / Стажер по направлению «Анализ данных»	None	None	https://hh.ru/vacancy/36953834	hh.ruETL разработчик	None	None	https://hh.ru/vacancy/36886079	hh.ruMiddle Data Analyst	None	None	https://hh.ru/vacancy/36955295	hh.ruCode reviewer (Python)	None	None	https://hh.ru/vacancy/36564534	hh.ruChief Project Engineer	None	None	https://hh.ru/vacancy/37356191	hh.ruБизнес-аналитик	None	None	https://hh.ru/vacancy/37356372	hh.ruИнженер HADOOP	None	None	https://hh.ru/vacancy/37350939	hh.ruCode reviewer (С++)	None	None	https://hh.ru/vacancy/37203751	hh.ruTech Cooperation manager (Chinese language)	None	None	https://hh.ru/vacancy/37352103	hh.ruГлавный аналитик-математик (Data Analyst / Data Scientist)	None	None	https://hh.ru/vacancy/30250856	hh.ruCRM System Analyst	None	None	https://hh.ru/vacancy/37342673	hh.ruData Science	None	None	https://hh.ru/vacancy/36587607	hh.ruFront-End Engineer (React)	None	None	https://hh.ru/vacancy/36324853	hh.ruChief Data Officer (Управляющий директор центра управления данными)	None	None	https://hh.ru/vacancy/37337338	hh.ruChief Data Officer (Управляющий директор центра управления данными)	None	None	https://hh.ru/vacancy/37337343	hh.ruПрограммист-математик	None	None	https://hh.ru/vacancy/30234738	hh.ruData scientist	None	None	https://hh.ru/vacancy/37125488	hh.ruSales manager (English)	None	None	https://hh.ru/vacancy/36984813	hh.ruМенеджер по продажам (направление IT)	70 000 руб.	100 000 руб.	https://hh.ru/vacancy/37036843	hh.ruData scientist	None	None	https://hh.ru/vacancy/37125498	hh.ruData Scientist / Senior Data Scientist (Python)	None	None	https://hh.ru/vacancy/34251157	hh.ruSenior Golang Developer (remote, HQ in Cupertino, USA)	None	6 000 USD	https://hh.ru/vacancy/37349013	hh.ruSenior .Net FullStack Developer в команду Collateral Management	None	None	https://hh.ru/vacancy/37343465	hh.ruМенеджер продукта R&D	None	None	https://hh.ru/vacancy/37318832	hh.ruData Scientist	None	None	https://hh.ru/vacancy/37299638	hh.ruJunior/Middle Data Scientist	None	None	https://hh.ru/vacancy/36715837	hh.ruData Engineer	None	None	https://hh.ru/vacancy/37335018	hh.ruData Engineer	None	None	https://hh.ru/vacancy/37335010	hh.ruГлавный специалист Data Science	None	None	https://hh.ru/vacancy/37324548	hh.ruCode reviewer ( HTML, CSS, JavaScript)	None	None	https://hh.ru/vacancy/37153418	hh.ruFull-Stack Node.JS Developer (AWS)	None	200 000 руб.	https://hh.ru/vacancy/37337601	hh.ruData Analyst / Игровой аналитик / Game Development	None	None	https://hh.ru/vacancy/36613113	hh.ruLead Big Data Engineer	None	None	https://hh.ru/vacancy/37335003	hh.ruData/Business Analyst	None	None	https://hh.ru/vacancy/37334281	hh.ruLead Big Data Engineer	None	None	https://hh.ru/vacancy/37334948	hh.ruПреподаватель курса "Анализ данных и машинное обучение"	None	None	https://hh.ru/vacancy/37332883	hh.ruSenior Java Developer (USA - remote)	None	None	https://hh.ru/vacancy/36845654	hh.ruМенеджер проектов / Координатор съемок	None	50 000 руб.	https://hh.ru/vacancy/37327376	hh.ruАналитик BI / Data scientist	None	None	https://hh.ru/vacancy/37095774	hh.ruСпециалист по внедрению бизнес-приложений	None	None	https://hh.ru/vacancy/37007176	hh.ruTechnical Lead в Data Science-команду/Data Engineer	None	None	https://hh.ru/vacancy/37111755	hh.ruAI algorithm library Team Leader	None	None	https://hh.ru/vacancy/36741488	hh.ruData Scientist	None	None	https://hh.ru/vacancy/37312880	hh.ruSoftware Developer (PyCharm For Data Science)	None	200 000 руб.	https://hh.ru/vacancy/35336500	hh.ruSoftware Developer (PyCharm For Data Science)	None	200 000 руб.	https://hh.ru/vacancy/35336501	hh.ruProduct Manager (Datalore)	None	None	https://hh.ru/vacancy/37314233	hh.ruProduct Manager (Datalore)	None	None	https://hh.ru/vacancy/37314234	hh.ruРазработчик ETL	None	None	https://hh.ru/vacancy/36519285	hh.ruTechnical Lead (Node.js)	None	None	https://hh.ru/vacancy/37320609	hh.ruTechnical Lead (Node.js)	None	None	https://hh.ru/vacancy/37320592	hh.ruВедущий системный аналитик	None	None	https://hh.ru/vacancy/37329799	hh.ruSenior iOS developer	None	None	https://hh.ru/vacancy/37324184	hh.ruQA Lead/Старший инженер по автотестированию	None	None	https://hh.ru/vacancy/37292612	hh.ruСистемный инженер (обучение Big Data)	None	None	https://hh.ru/vacancy/37321683	hh.ruData Engineer	None	None	https://hh.ru/vacancy/37313612	hh.ruLead JavaScript (Full Stack) Engineer	None	None	https://hh.ru/vacancy/37320405	hh.ruLead JavaScript (Full Stack) Engineer	None	None	https://hh.ru/vacancy/37320344	hh.ruData Analyst	None	None	https://hh.ru/vacancy/37313771	hh.ruLead Data Scientist в Дивизион Особенные Решения (Блок Розничный Бизнес)	None	None	https://hh.ru/vacancy/36874620	hh.ruSenior Backend Developer (ruby/node.js/go)	5 000 USD	6 000 USD	https://hh.ru/vacancy/36741977	hh.ruSenior Data Engineer	None	None	https://hh.ru/vacancy/36703087	hh.ruData Analyst	None	None	https://hh.ru/vacancy/37313262	hh.ruMarketing research manager (Kotlin)	None	None	https://hh.ru/vacancy/33465835	hh.ruАналитик данных	120 000 руб.	150 000 руб.	https://hh.ru/vacancy/37314500	hh.ruМетодист линейки менеджмента	None	80 000 руб.	https://hh.ru/vacancy/37012123	hh.ruData Analyst	None	None	https://hh.ru/vacancy/37309198	hh.ruAnalyst/Data Science Specialist	None	None	https://hh.ru/vacancy/29609893	hh.ruRegulatory Affairs Manager	None	None	https://hh.ru/vacancy/36556979	hh.ruАналитик данных	38 000 руб.	62 000 руб.	https://hh.ru/vacancy/36409959	hh.ruМетодист онлайн университета (линейка аналитики)	None	80 000 руб.	https://hh.ru/vacancy/36592266	hh.ruLegal Counsel	None	None	https://hh.ru/vacancy/37299984	hh.ruBig Data Engineer	None	None	https://hh.ru/vacancy/37303861	hh.ruData scientist	None	None	https://hh.ru/vacancy/37292440	hh.ruSenior Sales Manager (O&G, Digital)	None	None	https://hh.ru/vacancy/37313746	hh.ruDevOps инженер / ML Data engineer	None	None	https://hh.ru/vacancy/35853354	hh.ruPython developer (Data Engineer)	None	None	https://hh.ru/vacancy/33647219	hh.ruJava-разработчик (middle)	None	None	https://hh.ru/vacancy/36600437	hh.ruIT auditor	None	None	https://hh.ru/vacancy/28099593	hh.ruАналитик в Delivery Club	None	None	https://hh.ru/vacancy/37307322	hh.ruHead of IT infrastructure	None	None	https://hh.ru/vacancy/37301031	hh.ruСпециалист по работе с просроченной задолженностью	None	None	https://hh.ru/vacancy/36702923	hh.ruJava-разработчик (middle)	None	None	https://hh.ru/vacancy/36683307	hh.ruSenior Front End (React) Engineer	None	None	https://hh.ru/vacancy/34867384	hh.ruSenior Front End (React) Engineer	None	None	https://hh.ru/vacancy/34867413	hh.ruJava разработчик	None	None	https://hh.ru/vacancy/37314532	hh.ruReceptionist / Call Centre Assistant (Health Assessment Programs) (work percentage from 50% to 100%	None	None	https://hh.ru/vacancy/37297172	hh.ruSenior Node.js (Full Stack) Engineer	None	None	https://hh.ru/vacancy/34661400	hh.ruSenior Node.js (Full Stack) Engineer	None	None	https://hh.ru/vacancy/34774511	hh.ruJava разработчик (Middle+)	None	None	https://hh.ru/vacancy/37298457	hh.ruSystem High Reliability Leading Expert	None	None	https://hh.ru/vacancy/37282164	hh.ruJava developer	None	None	https://hh.ru/vacancy/37311696	hh.ruData Scientist	None	None	https://hh.ru/vacancy/30065191	hh.ruDeep Learning Manager (Computer Vision, Neural Network Compression)	None	None	https://hh.ru/vacancy/37293592	hh.ruBI Data Engineer	None	None	https://hh.ru/vacancy/36146753	hh.ruData engineer/ Data analyst (Hadoop)	None	None	https://hh.ru/vacancy/37280700	hh.ruАналитик-математик (Data scientist)	80 000 руб.	100 000 руб.	https://hh.ru/vacancy/37020699	hh.ruMiddle Ansible DevOps инженер	None	None	https://hh.ru/vacancy/37297595	hh.ruMiddle Ansible DevOps инженер	None	None	https://hh.ru/vacancy/37297596	hh.ruBI Analyst	None	None	https://hh.ru/vacancy/36909127	hh.ruData Engineer в команду Performance Advertising	None	None	https://hh.ru/vacancy/36856006	hh.ruSenior cпециалист по контекстной и таргетированной рекламе (IT сфера)	None	None	https://hh.ru/vacancy/37285836	hh.ruManager - Visa Consulting	None	None	https://hh.ru/vacancy/37281855	hh.ruJava-разработчик	None	None	https://hh.ru/vacancy/37290201	hh.ruПрограммист-разработчик (SQL)	100 000 руб.	250 000 руб.	https://hh.ru/vacancy/36870101	hh.ruJava разработчик	None	None	https://hh.ru/vacancy/37292474	hh.ruBI Senior Developer	None	None	https://hh.ru/vacancy/36909130	hh.ruSenior Java разработчик	None	None	https://hh.ru/vacancy/37291017	hh.ruПреподаватель по курсу "Аналитик данных" (спикер)	None	None	https://hh.ru/vacancy/37246162	hh.ruФинансовый аналитик / Экономист-аналитик	60 000 руб.	100 000 руб.	https://hh.ru/vacancy/36902529	hh.ruВедущий программист 1С	100 000 руб.	200 000 руб.	https://hh.ru/vacancy/36869917	hh.ruSolution Architect	None	None	https://hh.ru/vacancy/35330621	hh.ruIOS engineer	None	None	https://hh.ru/vacancy/37029661	hh.ruВедущий инженер по разработке	None	None	https://hh.ru/vacancy/37005114	hh.ruAndroid developer	None	None	https://hh.ru/vacancy/37285156	hh.ruIOS Developer	None	None	https://hh.ru/vacancy/35078481	hh.ruАналитик (data scientist)	60 000 руб.	120 000 руб.	https://hh.ru/vacancy/37251546	hh.ruAndroid Developer	None	None	https://hh.ru/vacancy/36875580	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36519811	hh.ruData Analytics Specialist	None	None	https://hh.ru/vacancy/37234149	hh.ruРазработчик в области ML ( images / data science)	None	None	https://hh.ru/vacancy/37228910	hh.ruАналитик Data Science/Разработчик алгоритмов Loginom	None	None	https://hh.ru/vacancy/37243638	hh.ruPV Hub Data Entry Associate	None	None	https://hh.ru/vacancy/37231784	hh.ruQuantitative Researcher	None	None	https://hh.ru/vacancy/36518703	hh.ruSenior C++/Python Developer (Program Planner)	None	None	https://hh.ru/vacancy/36811802	hh.ruData Scientist/Senior Data Scientist	None	None	https://hh.ru/vacancy/37246771	hh.ruData scientist	None	None	https://hh.ru/vacancy/37238631	hh.ruАналитик / Data scientist	None	None	https://hh.ru/vacancy/36638171	hh.ruProduct Manager	None	None	https://hh.ru/vacancy/21963813	hh.ruProduct Manager	None	None	https://hh.ru/vacancy/26659765	hh.ruData engineer	None	None	https://hh.ru/vacancy/37242174	hh.ruМенеджер по привлечению клиентов (IT онлайн-обучение)	60 000 руб.	100 000 руб.	https://hh.ru/vacancy/37248938	hh.ruГлавный архитектор Anaplan	None	None	https://hh.ru/vacancy/37243654	hh.ruВедущий инженер по тестированию (ВЭД)	None	None	https://hh.ru/vacancy/37232293	hh.ruС++ разработчик	None	None	https://hh.ru/vacancy/36449179	hh.ruАрхитектор Больших данных	None	None	https://hh.ru/vacancy/37247641	hh.ruSenior Python/SQL developer	None	None	https://hh.ru/vacancy/35847547	hh.ruSenior Java Developer	None	None	https://hh.ru/vacancy/36731797	hh.ruSenior Java Developer	None	None	https://hh.ru/vacancy/36731798	hh.ruLead Front-end developer	None	3 000 USD	https://hh.ru/vacancy/30653181	hh.ruBusiness Analyst	None	None	https://hh.ru/vacancy/37226882	hh.ruSenior .net Backend Developer (remote)	None	160 000 руб.	https://hh.ru/vacancy/37246566	hh.ruSenior Java Developer	None	None	https://hh.ru/vacancy/36737205	hh.ruHead of IS methodology and master data section / Начальник отдела методологии и нормативно-справочно	None	None	https://hh.ru/vacancy/37206994	hh.ruSenior Java Developer	None	None	https://hh.ru/vacancy/36737109	hh.ruSenior Java Developer	None	None	https://hh.ru/vacancy/36737078	hh.ruСтарший/ведущий functional Scala разработчик (Белград, Сербия)	4 000 USD	6 500 USD	https://hh.ru/vacancy/37227806	hh.ruSenior .NET developer / Старший разработчик	None	3 000 USD	https://hh.ru/vacancy/26983093	hh.ruSenior Data Scientist	None	None	https://hh.ru/vacancy/36912049	hh.ruFull-stack Senior Developer	None	3 000 USD	https://hh.ru/vacancy/30270817	hh.ruAI Research Engineer [Computer Vision, Machine Learning, Algorithms]	None	None	https://hh.ru/vacancy/37223050	hh.ruРуководитель отдела архитектуры корпоративных данных	None	None	https://hh.ru/vacancy/37226515	hh.ruSystem Analyst (Life Science)	100 000 руб.	200 000 руб.	https://hh.ru/vacancy/36440952	hh.ruDeveloper Python/Scala/Spark	None	None	https://hh.ru/vacancy/36693681	hh.ruСтарший/ведущий/главный специалист (Data science specialist) Отдела разработки моделей кред. рисков	None	None	https://hh.ru/vacancy/37217313	hh.ruAnalyst (CI.External data and triggers)	None	None	https://hh.ru/vacancy/37104208	hh.ruClinical Research Associate/Senior Clinical Research Associate	None	None	https://hh.ru/vacancy/37186000	hh.ruSoftware Engineer (ML algorithm implementation)	None	None	https://hh.ru/vacancy/37223172	hh.ruJunior Data Analyst	None	None	https://hh.ru/vacancy/37190250	hh.ruТехнический аналитик [id41401]	None	None	https://hh.ru/vacancy/36293626	hh.ruAI Research Engineer [Computer Vision, Machine Learning, Algorithms]	None	None	https://hh.ru/vacancy/37220166	hh.ruAI Sensors Algorithms Engineer (DSP)	None	None	https://hh.ru/vacancy/37223061	hh.ruMedical Science Liaison / MSL Cardio	None	None	https://hh.ru/vacancy/36780875	hh.ruAI Sensors Algorithms Engineer (DSP)	None	None	https://hh.ru/vacancy/37220237	hh.ruSoftware Engineer	None	None	https://hh.ru/vacancy/37220155	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36800183	hh.ruSenior Data Scientist	None	None	https://hh.ru/vacancy/37176449	hh.ruData Analyst / Аналитик больших данных	None	None	https://hh.ru/vacancy/37190219	hh.ruData scientist / Machine learning engineer в команду Видео	None	None	https://hh.ru/vacancy/37182202	hh.ruМенеджер по продажам	35 000 руб.	170 000 руб.	https://hh.ru/vacancy/37222984	hh.ruFull-Stack Node.JS Developer (AWS)	None	180 000 руб.	https://hh.ru/vacancy/37217800	hh.ruSenior DevOps Engineer	None	None	https://hh.ru/vacancy/37224899	hh.ruАналитик (коммерция)	None	None	https://hh.ru/vacancy/37193565	hh.ruПрограмматик менеджер	None	None	https://hh.ru/vacancy/36412266	hh.ruSenior data science	None	None	https://hh.ru/vacancy/36815679	hh.ruSenior data science	None	None	https://hh.ru/vacancy/36815680	hh.ruFullstack developer	None	None	https://hh.ru/vacancy/36782476	hh.ruИсследователь-экономист (research analyst in economics)	60 000 руб.	120 000 руб.	https://hh.ru/vacancy/30995943	hh.ruMiddle QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37198978	hh.ruMiddle QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37198769	hh.ruSenior Data Scientist (Deep Learning)	None	None	https://hh.ru/vacancy/35304556	hh.ruJava-разработчик в Казань	None	None	https://hh.ru/vacancy/37197586	hh.ruSenior QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37199702	hh.ruSenior QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37199674	hh.ruPrincipal / Director (Technology Solutions)	None	None	https://hh.ru/vacancy/37188823	hh.ruIOS Developer	None	None	https://hh.ru/vacancy/37194599	hh.ruData Scientist (блок риски)	None	None	https://hh.ru/vacancy/35217354	hh.ruJunior Data scientist / Big data аналитик	30 000 руб.	40 000 руб.	https://hh.ru/vacancy/37160136	hh.ruData Scientist (Junior)	None	None	https://hh.ru/vacancy/36815254	hh.ruSenior Data Scientist (Surge Pricing)	None	None	https://hh.ru/vacancy/35409042	hh.ruSystem Engineer	None	None	https://hh.ru/vacancy/37197439	hh.ruSenior R&D Engineer	None	None	https://hh.ru/vacancy/36782712	hh.ruCode reviewer (HTML, CSS, JavaScript) со знанием английского языка в Яндекс.Практикум	None	None	https://hh.ru/vacancy/37177077	hh.ruMachine Learning Engineer	None	None	https://hh.ru/vacancy/37157055	hh.ruClinical Research Associate / Cпециалист (Монитор) по клиническим исследованиям	None	None	https://hh.ru/vacancy/37157804	hh.ruSenior C++ Developer (разработка систем хранения данных)	None	None	https://hh.ru/vacancy/37176196	hh.ruИнженер по тестированию	None	None	https://hh.ru/vacancy/35281834	hh.ruAndroid Developer (Java/Kotlin)	None	None	https://hh.ru/vacancy/37182751	hh.ruClinical Research Associate / (Senior/Старший) специалист по клиническим исследованиям	None	None	https://hh.ru/vacancy/37157825	hh.ruSenior Frontend Developer Angular	2 000 EUR	4 000 EUR	https://hh.ru/vacancy/37158802	hh.ruCategory Managing Manager (Oral Healthcare)	None	None	https://hh.ru/vacancy/37159845	hh.ruBusiness Intelligence Engineer	None	None	https://hh.ru/vacancy/37174693	hh.ruBusiness Intelligence Engineer	None	None	https://hh.ru/vacancy/37174628	hh.ruМатематик - программист	None	None	https://hh.ru/vacancy/37170006	hh.ruData Visualization Engineer	None	None	https://hh.ru/vacancy/37170176	hh.ruData Visualization Engineer	None	None	https://hh.ru/vacancy/37170007	hh.ruSenior Scala (Spark) developer	None	None	https://hh.ru/vacancy/37162992	hh.ruSenior Data Analyst (Fares)	None	None	https://hh.ru/vacancy/36769444	hh.ruПреподаватель Python & Data Science и Machine Learning	None	150 000 руб.	https://hh.ru/vacancy/36437887	hh.ruSenior QA Engineer, Gene Biology Editor Tool	None	None	https://hh.ru/vacancy/37175066	hh.ruSenior QA Engineer, Gene Biology Editor Tool	None	None	https://hh.ru/vacancy/37174948	hh.ruPython Data Scientist	None	None	https://hh.ru/vacancy/37137219	hh.ruData Scientist	None	None	https://hh.ru/vacancy/37134850	hh.ruBackend Developer	2 000 EUR	4 000 EUR	https://hh.ru/vacancy/37158488	hh.ruData scientist/Machine learning engineer в Команду CoreML	None	None	https://hh.ru/vacancy/35493975	hh.ruData Scientist (клиентская аналитика)	None	None	https://hh.ru/vacancy/37153130	hh.ruData Analyst (to Cyprus)	None	None	https://hh.ru/vacancy/37150146	hh.ruПреподаватель курсов по облачным технологиям	None	150 000 руб.	https://hh.ru/vacancy/34164405	hh.ruSystem Software Engineer (С)	None	None	https://hh.ru/vacancy/33659438	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36357367	hh.ruIT manager	None	None	https://hh.ru/vacancy/36701732	hh.ruРиск-технолог	None	None	https://hh.ru/vacancy/36446813	hh.ruAI/Big Data Technical Development Expert	None	None	https://hh.ru/vacancy/37145369	hh.ruIntern, Clinical Research / Стажёр в отделе клинических исследований	None	None	https://hh.ru/vacancy/37135407	hh.ruIntern, Clinical Research / Стажёр в отделе клинических исследований	None	None	https://hh.ru/vacancy/37135386	hh.ruSenior Backend Developer (Go)	None	None	https://hh.ru/vacancy/34115215	hh.ruТимлид бэкенд / Teamlead backend	1 400 USD	4 000 USD	https://hh.ru/vacancy/37149645	hh.ruDevOps ML (HR-платформа)	None	None	https://hh.ru/vacancy/37145612	hh.ruPython разработчик SberDevices	None	None	https://hh.ru/vacancy/36286016	hh.ruSoftware Architect (Frontend, Backend, Cloud, DevOps) / Senior full-stack engineer	None	None	https://hh.ru/vacancy/34251172	hh.ruDevOps Engineer (Германия, Эссен)	4 100 EUR	5 800 EUR	https://hh.ru/vacancy/36034566	hh.ruData Engineer	None	None	https://hh.ru/vacancy/37143286	hh.ruSoftware Engineer (Java)	None	None	https://hh.ru/vacancy/36787627	hh.ruIntern, Clinical Research / Стажёр в отделе клинических исследований	None	None	https://hh.ru/vacancy/37135563	hh.ruData engineer (Клиентская аналитика)	None	None	https://hh.ru/vacancy/37138728	hh.ruJava разработчик	None	None	https://hh.ru/vacancy/37147019	hh.ruАдминистратор Hadoop	None	None	https://hh.ru/vacancy/35877651	hh.ruData Scientist (Middle/Senior) - моделирование кредитных рисков корпоративных клиентов (Блок Риски)	None	None	https://hh.ru/vacancy/33462158	hh.ruProduct Analyst	None	None	https://hh.ru/vacancy/37145293	hh.ruQA Automation Engineer в Saving products	None	None	https://hh.ru/vacancy/37132154	hh.ruSenior Python Engineer	None	None	https://hh.ru/vacancy/36886171	hh.ruSenior Python Engineer	None	None	https://hh.ru/vacancy/36886225	hh.ruJava developer (Middle)	100 000 руб.	130 000 руб.	https://hh.ru/vacancy/37152735	hh.ruРазработчик Python	100 000 руб.	140 000 руб.	https://hh.ru/vacancy/37139073	hh.ruSenior Python (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36886419	hh.ruSenior Python (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36886481	hh.ruJava-разработчик (middle)	None	None	https://hh.ru/vacancy/36055250	hh.ruOperations Planning Manager	None	None	https://hh.ru/vacancy/37134994	hh.ruМенеджер проектов (Big Data)	230 000 руб.	None	https://hh.ru/vacancy/36544243	hh.ruSoftware Engineer (R language)	None	None	https://hh.ru/vacancy/36764336	hh.ruTechnical Lead for NLP / Conversational Systems	None	None	https://hh.ru/vacancy/37149413	hh.ruJava-разработчик (Севастополь)	None	None	https://hh.ru/vacancy/36774420	hh.ruIOS Developer	None	None	https://hh.ru/vacancy/36905903	hh.ruСтарший/Ведущий аналитик (на проекты по DWH и BI)	None	None	https://hh.ru/vacancy/37133143	hh.ruIT Process Analyst (Production, Track & Trace infrastructure)	None	None	https://hh.ru/vacancy/34166457	hh.ruBig Data engineer	None	None	https://hh.ru/vacancy/36762565	hh.ruAndroid Developer	None	None	https://hh.ru/vacancy/36657476	hh.ruИТ Бизнес аналитик (IT Process Analyst Manager for GSC Finance business function)	None	None	https://hh.ru/vacancy/37104069	hh.ruPython Developer	None	None	https://hh.ru/vacancy/34767945	hh.ruИнженер-программист data science, computer vision (middle)	None	None	https://hh.ru/vacancy/36134515	hh.ruSenior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880820	hh.ruSenior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880859	hh.ruSenior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880868	hh.ruSenior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880886	hh.ruНаставник в Практикум на программу обучения "Data Science"	None	None	https://hh.ru/vacancy/37113748	hh.ruData scientist [id 30603]	None	None	https://hh.ru/vacancy/37112112	hh.ruIT - Analytics & Insights / Data Science Intern / Стажер в IT-Аналитике	None	70 000 руб.	https://hh.ru/vacancy/36737956	hh.ruРуководитель проектов по цифровизации в логистике	None	None	https://hh.ru/vacancy/36776487	hh.ruМенеджер по клиентской аналитике (Data Scientist)	None	None	https://hh.ru/vacancy/37124945	hh.ruАвтор тестов в Практикум	None	None	https://hh.ru/vacancy/37126650	hh.ruЭксперт по кибербезопасности процессов моделирования и машинного обучения (data science)	None	None	https://hh.ru/vacancy/37096254	hh.ruВедущий Python разработчик (ML) в Delivery club	None	None	https://hh.ru/vacancy/36712852	hh.ruTherapeutic Area Manager (Hematology)	None	None	https://hh.ru/vacancy/37107519	hh.ruData Science Specialist (NLP)	None	None	https://hh.ru/vacancy/35849387	hh.ruYouTube-маркетолог	None	80 000 руб.	https://hh.ru/vacancy/37105088	hh.ruBig Data - разработчик	None	None	https://hh.ru/vacancy/37122704	hh.ruSenior Business Analyst	None	None	https://hh.ru/vacancy/37120628	hh.ruSenior Business Analyst	None	None	https://hh.ru/vacancy/37120527	hh.ruРуководитель направления дата аналитики/data science	None	None	https://hh.ru/vacancy/37088953	hh.ruTechnical Writer	None	None	https://hh.ru/vacancy/36762726	hh.ruБизнес-аналитик (проекты Data Science)	None	None	https://hh.ru/vacancy/36746489	hh.ruSenior QA Automation (C#) Engineer	None	None	https://hh.ru/vacancy/36499464	hh.ruSenior QA Automation (C#) Engineer	None	None	https://hh.ru/vacancy/36499522	hh.ruSenior QA Automation (JavaScript) Engineer, Education Project	None	None	https://hh.ru/vacancy/34259883	hh.ruSenior QA Automation (JavaScript) Engineer, Education Project	None	None	https://hh.ru/vacancy/34719951	hh.ruСтарший методолог по анализу данных (Senior Data Scientist)	None	None	https://hh.ru/vacancy/37073502	hh.ruSoftware Developer C++	None	None	https://hh.ru/vacancy/36622151	hh.ruАналитик данных	180 000 руб.	250 000 руб.	https://hh.ru/vacancy/37098119	hh.ruJava-разработчик (Spring) Офис / удаленно	None	None	https://hh.ru/vacancy/37104450	hh.ruData-инженер	None	None	https://hh.ru/vacancy/37108627	hh.ruРуководитель направления НИОКР [id21823]	None	None	https://hh.ru/vacancy/36754893	hh.ruData Science Team Lead (Сегмента Авто)	None	None	https://hh.ru/vacancy/37095427	hh.ruSenior Data Scientist (УТФ)	None	None	https://hh.ru/vacancy/37021862	hh.ruIT Recruiter	None	None	https://hh.ru/vacancy/36529313	hh.ruSenior Data Scientist (Дивизион ЦКР)	None	None	https://hh.ru/vacancy/36940290	hh.ruPrincipal / Director (Technology Solutions)	None	None	https://hh.ru/vacancy/37100419	hh.ruProduct Data Analyst	None	None	https://hh.ru/vacancy/37086765	hh.ruСпециалист по веб-аналитике (Digital analytics specialist)	60 000 руб.	120 000 руб.	https://hh.ru/vacancy/37108393	hh.ruМетодист онлайн университета	None	80 000 руб.	https://hh.ru/vacancy/36765224	hh.ruHead of FP&A	None	None	https://hh.ru/vacancy/36736825	hh.ruSenior Data Engineer (Spark)	None	None	https://hh.ru/vacancy/37081269	hh.ruData Scientist в Корпоративно-Инвестиционный Блок Банка	None	None	https://hh.ru/vacancy/36550195	hh.ruMiddle Data Scientist (Цифровой кредитный мониторинг)	None	None	https://hh.ru/vacancy/36766431	hh.ruГенетик – аналитик данных (data scientist)	None	None	https://hh.ru/vacancy/37073561	hh.ruМенеджер по исследованию больших данных (Data Scientist)	None	None	https://hh.ru/vacancy/36749314	hh.ruРуководитель направления по исследованию данных(Data Scientist)	None	None	https://hh.ru/vacancy/34777225	hh.ruВедущий backend-разработчик	200 000 руб.	300 000 руб.	https://hh.ru/vacancy/37105461	hh.ruAI Algorithm Expert / Senior Engineer	None	None	https://hh.ru/vacancy/37097204	hh.ruData scientist (Центр валидации моделей розничного бизнеса)	None	None	https://hh.ru/vacancy/36614923	hh.ruРазработчик Python/Go	None	None	https://hh.ru/vacancy/37086966	hh.ruSenior Data Scientist	None	None	https://hh.ru/vacancy/37064677	hh.ruData Scientist (разработка скоринговых моделей)	None	None	https://hh.ru/vacancy/37052134	hh.ruDelivery Manager	None	None	https://hh.ru/vacancy/37101425	hh.ruНаставник в Практикум на программу обучения "Интернет-маркетолог"	None	None	https://hh.ru/vacancy/37083636	hh.ruАналитик БД / BI Разработчик	None	None	https://hh.ru/vacancy/37085689	hh.ruSenior Backend developer (Python/Go)	None	None	https://hh.ru/vacancy/35681002	hh.ruBlockchain developer	None	None	https://hh.ru/vacancy/36714928	hh.ruСпециалист по математическому моделированию	None	None	https://hh.ru/vacancy/36093561	hh.ruFrontend Developer (DIH)	None	None	https://hh.ru/vacancy/36749451	hh.ruFrontend Developer (DIH)	None	None	https://hh.ru/vacancy/36749452	hh.ruML- инженер (HR-платформа)	None	None	https://hh.ru/vacancy/36934296	hh.ruData scientist	None	None	https://hh.ru/vacancy/36915671	hh.ruLead Data Scientist (RecSys) at Sberbank Corporate	None	None	https://hh.ru/vacancy/36550187	hh.ruAI Researcher Tech Leader	None	None	https://hh.ru/vacancy/36804909	hh.ruНаставник в Практикум на программу обучения "Аналитик данных"	None	None	https://hh.ru/vacancy/37076505	hh.ruПомощник генерального директора	None	100 000 руб.	https://hh.ru/vacancy/37057123	hh.ruМенеджер продукта (аналитическая платформа myTracker)	None	None	https://hh.ru/vacancy/37074776	hh.ruInside Sales Representative (IT / IoT / Automation)	None	80 000 руб.	https://hh.ru/vacancy/37077235	hh.ruСпециалист по проверке кода DA/DS в Яндекс.Практикум (со знанием английского языка)	None	None	https://hh.ru/vacancy/37086603	hh.ruРуководитель проектов / Project Manager (IT)	None	None	https://hh.ru/vacancy/37086492	hh.ruСпециалист судебного взыскания	None	None	https://hh.ru/vacancy/37043451	hh.ruDevOps Engineer (Cyprus)	None	None	https://hh.ru/vacancy/37143541	hh.ruСпециалист по машинному обучению (Data Scientist)	None	None	https://hh.ru/vacancy/35894037	hh.ruАналитик по работе с поставщиками	None	None	https://hh.ru/vacancy/36569987	hh.ruData scientist	None	None	https://hh.ru/vacancy/37029031	hh.ruНаучный сотрудник (Компьютерное моделирование и прогнозирование в финансовой сфере)	None	100 000 руб.	https://hh.ru/vacancy/33609223	hh.ruComputer Vision developer (machine learning, python)	None	None	https://hh.ru/vacancy/37017038	hh.ruНаучный сотрудник (Машинное обучение и анализ данных в социальных и экономических системах)	None	100 000 руб.	https://hh.ru/vacancy/33608720	hh.ruData Science specialist	None	None	https://hh.ru/vacancy/37014405	hh.ruБизнес-аналитик	None	None	https://hh.ru/vacancy/37051637	hh.ruJava Developer Инженер-программист в проект "Интернет вещей"	None	None	https://hh.ru/vacancy/32137281	hh.ruFrontend Developer	None	None	https://hh.ru/vacancy/36732312	hh.ruFrontend Developer	None	None	https://hh.ru/vacancy/36732313	hh.ruTechnical Lead for NLP / Conversational Systems	None	None	https://hh.ru/vacancy/36859047	hh.ruАналитик Data Science	None	None	https://hh.ru/vacancy/36245249	hh.ruСтарший аналитик	None	None	https://hh.ru/vacancy/37042345	hh.ruСпециалист-исследователь / Deep Learning Research Engineer	None	None	https://hh.ru/vacancy/34410405	hh.ruSoftware Engineer: iOS Audio and Chat App	None	None	https://hh.ru/vacancy/37057107	hh.ruКонсультант направления «Data Science/Applied intelligence»	None	None	https://hh.ru/vacancy/35357626	hh.ruFrontend Developer (Германия, Эссен)	4 100 EUR	5 800 EUR	https://hh.ru/vacancy/36034483	hh.ruРазработчик программного обеспечения / Backend Developer (Java / C++)	None	None	https://hh.ru/vacancy/37070638	hh.ruDirector of Product Development	None	None	https://hh.ru/vacancy/37030487	hh.ru3D Machine Learning Research and Development Engineer	None	None	https://hh.ru/vacancy/36734347	hh.ruML engineer	None	None	https://hh.ru/vacancy/37029032	hh.ruML engineer	None	None	https://hh.ru/vacancy/37029033	hh.ruML engineer	None	None	https://hh.ru/vacancy/37029034	hh.ruML engineer	None	None	https://hh.ru/vacancy/37029035	hh.ruПрограммист C# / Разработчик Unity	None	None	https://hh.ru/vacancy/37048494	hh.ruНачальник отдела разработки решений по анализу естественного языка (NLP) [id42624]	None	None	https://hh.ru/vacancy/36252345	hh.ruETL Developer	None	None	https://hh.ru/vacancy/33698754	hh.ruSenior Scala Developer	None	None	https://hh.ru/vacancy/34410333	hh.ruData Scientist	None	None	https://hh.ru/vacancy/37012218	hh.ruГлавный инженер по разработке JS	None	None	https://hh.ru/vacancy/37025195	hh.ruData Scientist	None	None	https://hh.ru/vacancy/37010627	hh.ruSenior Vulnerability researcher	None	None	https://hh.ru/vacancy/36880153	hh.ruBusiness Analyst	None	None	https://hh.ru/vacancy/37023256	hh.ruC++ Developer Mathematician	None	None	https://hh.ru/vacancy/36725608	hh.ruРазработчик Python (Развитие Bigdata)	None	None	https://hh.ru/vacancy/35236202	hh.ruSenior Java Developer	None	None	https://hh.ru/vacancy/37035928	hh.ruData Analyst ( to Cyprus)	None	None	https://hh.ru/vacancy/37150137	hh.ruСпециалист-исследователь (Data science & information security)	None	None	https://hh.ru/vacancy/35202186	hh.ruSenior Data Engineer/Data Engineer	None	None	https://hh.ru/vacancy/36679059	hh.ruData-аналитик/ Продуктовый аналитик	None	None	https://hh.ru/vacancy/36673838	hh.ruВнутренний контролер-аудитор	None	None	https://hh.ru/vacancy/37006346	hh.ruScala Developer	None	None	https://hh.ru/vacancy/36207640	hh.ruSenior Rust Developer	None	None	https://hh.ru/vacancy/36207622	hh.ruSenior Scala Developer / Team Lead	None	None	https://hh.ru/vacancy/36207669	hh.ruIntern, Corporate Intelligence Group, Forensic Department Voronezh	None	None	https://hh.ru/vacancy/37008274	hh.ruEHS Engineer	None	None	https://hh.ru/vacancy/36973122	hh.ruProduct Manager/Analyst	None	None	https://hh.ru/vacancy/37000828	hh.ruSupply Chain Data Senior Analyst	None	None	https://hh.ru/vacancy/36966585	hh.ruSenior Data Scientist	None	None	https://hh.ru/vacancy/36859214	hh.ruData Scientist (Big Data)	None	None	https://hh.ru/vacancy/36982968	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36951571	hh.ruСпециалист call-центра (направление PRE Collection)	None	None	https://hh.ru/vacancy/36998920	hh.ruСтажер подразделения Информационные технологии	None	None	https://hh.ru/vacancy/37000713	hh.ruData Engineer (Big Data)	None	None	https://hh.ru/vacancy/36983051	hh.ruLeading R&D Engineer (Data Science in Energy)	None	None	https://hh.ru/vacancy/36987958	hh.ruData Analyst (Big Data)	None	None	https://hh.ru/vacancy/36982985	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36667663	hh.ruJava-разработчик	None	None	https://hh.ru/vacancy/36679624	hh.ruSenior Security Operations Center Engineer	None	None	https://hh.ru/vacancy/37004802	hh.ruTeam-Lead/Senior data scientist	None	None	https://hh.ru/vacancy/36694503	hh.ruTeam Lead data scientist (коммерческое направление)	None	None	https://hh.ru/vacancy/36691192	hh.ruProduct Marketing Manager (Продуктовый маркетолог)	None	None	https://hh.ru/vacancy/36100508	hh.ruNLP Software Developer / NLP программист-разработчик	None	120 000 руб.	https://hh.ru/vacancy/36741840	hh.ruPython разработчик в практику Big Data	None	None	https://hh.ru/vacancy/36986538	hh.ruФронтенд-разработчик (React)	None	None	https://hh.ru/vacancy/34916465	hh.ruРазработчик/DevOps в команде Data Science	None	None	https://hh.ru/vacancy/36933963	hh.ruJava developer (Big Data)	None	None	https://hh.ru/vacancy/36216059	hh.ruLead Data Scientist	None	None	https://hh.ru/vacancy/36922892	hh.ruData Scientist sas Sber (Дивизион `Массовая персонализация`)	None	None	https://hh.ru/vacancy/36932939	hh.ruSenior compliance specialist - CIS Technology services - Internal client services	None	None	https://hh.ru/vacancy/36934150	hh.ruSenior Data Scientist (BigData)	None	None	https://hh.ru/vacancy/35203074	hh.ruВедущий разработчик программного обеспечения (Java)	None	90 000 руб.	https://hh.ru/vacancy/34916520	hh.ruData Scientist	None	None	https://hh.ru/vacancy/36545229	hh.ruSenior Azure DevOps Engineer	None	None	https://hh.ru/vacancy/36937740	hh.ruСистемный аналитик (Big Data)	None	None	https://hh.ru/vacancy/36877190	hh.ruРуководитель команды Data Science (Predictive Analytic Solutions)	None	None	https://hh.ru/vacancy/36957660	hh.ruSenior Azure DevOps Engineer	None	None	https://hh.ru/vacancy/36937622	hh.ruAnti-fraud BigData \ ML developer	None	None	https://hh.ru/vacancy/36937617	hh.ruSenior Machine Learning Developer	None	None	https://hh.ru/vacancy/36632357	hh.ruРуководитель отдела компетенций NLP / Lead NLP	None	None	https://hh.ru/vacancy/36639908	hh.ruTeam lead Data Science	180 000 руб.	300 000 руб.	https://hh.ru/vacancy/36627900	hh.ruCustomer & Consumer Insights Leader	None	None	https://hh.ru/vacancy/36917512	hh.ruData transformation developer	None	None	https://hh.ru/vacancy/36818338	hh.ruPresale Engineer (Solution Engineer)	None	None	https://hh.ru/vacancy/36952523	hh.ruРуководитель группы анализа ликвидности и работы с маркет-мейкерами	None	None	https://hh.ru/vacancy/36654946	hh.ruStrategic Accounts Manager	None	None	https://hh.ru/vacancy/36917501	hh.ruStorage Algorithm Engineer	None	None	https://hh.ru/vacancy/36953121	hh.ruSenior Frontend React Developer (remote)	None	None	https://hh.ru/vacancy/36983600	hh.ruАвтор курса "Python для анализа данных"	None	None	https://hh.ru/vacancy/36923229	hh.ruProduct Marketing Manager-Measurements	None	None	https://hh.ru/vacancy/36907405	hh.ruС++ Developer (Threat Research)	None	None	https://hh.ru/vacancy/36620635	hh.ruSenior .NET (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36937706	hh.ruSenior .NET (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36937647	hh.ruBusiness Analyst	None	None	https://hh.ru/vacancy/36915503	hh.ruSenior GCP DevOps Engineer	None	None	https://hh.ru/vacancy/36937876	hh.ruSenior GCP DevOps Engineer	None	None	https://hh.ru/vacancy/36937867	hh.ruSenior Frontend Developer (React)	None	None	https://hh.ru/vacancy/36967515	hh.ruСтажёр (по анализу данных, data science)	None	None	https://hh.ru/vacancy/36154902	hh.ruDevOps Architect	None	None	https://hh.ru/vacancy/36493282	hh.ruDevOps Architect	None	None	https://hh.ru/vacancy/36493283	hh.ruСтажер Sberseasons юрист	None	None	https://hh.ru/vacancy/36915389	hh.ruPremium Support Engineer	None	None	https://hh.ru/vacancy/36924258	hh.ruMiddle/Senior Python Developer	None	None	https://hh.ru/vacancy/35529120	hh.ruEnterprise Архитектор Департамента корпоративной архитектуры	None	None	https://hh.ru/vacancy/36911616	hh.ruJava / C# developer	None	None	https://hh.ru/vacancy/36924309	hh.ruCompilers and Run-time Developer	None	None	https://hh.ru/vacancy/36928101	hh.ruAndroid Developer	None	None	https://hh.ru/vacancy/36924028	hh.ruSenior Android developer	None	None	https://hh.ru/vacancy/36634291	hh.ruРазработчик навигационных алгоритмов	None	None	https://hh.ru/vacancy/37082078	hh.ruПрограммист data science, computer vision	None	None	https://hh.ru/vacancy/36134600	hh.ru
+Python Data Scientist	None	150 000 руб.	https://hh.ru/vacancy/36916080	hh.ru
+Data Engineer - Sales Home	None	220 000 руб.	https://hh.ru/vacancy/37036573	hh.ru
+Руководитель локальной группы Data Science в г. Москва	None	None	https://hh.ru/vacancy/36672688	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36023475	hh.ru
+Аналитик данных / BI аналитик	None	None	https://hh.ru/vacancy/37356801	hh.ru
+Специалист Computer Vision (Data Scientist)	120 000 руб.	220 000 руб.	https://hh.ru/vacancy/37008803	hh.ru
+Senior data scientist	None	None	https://hh.ru/vacancy/37371627	hh.ru
+QA Engineer (PyCharm For Data Science)	None	150 000 руб.	https://hh.ru/vacancy/36415355	hh.ru
+Junior Python Developer for Imunify Security [Remote]	None	None	https://hh.ru/vacancy/37236151	hh.ru
+Fullstack developer (middle)	120 000 руб.	180 000 руб.	https://hh.ru/vacancy/37172117	hh.ru
+Scala Junior+ разработчик	None	45 000 руб.	https://hh.ru/vacancy/37303436	hh.ru
+Backend разработчик (Ruby, go, nodejs)	None	300 000 руб.	https://hh.ru/vacancy/37357158	hh.ru
+Разработчик Python Backend	None	150 000 руб.	https://hh.ru/vacancy/36916013	hh.ru
+Python Developer	None	None	https://hh.ru/vacancy/36752074	hh.ru
+Маркетолог по спецпроектам / Project-менеджер	80 000 руб.	None	https://hh.ru/vacancy/37054283	hh.ru
+Quality Engineer	None	None	https://hh.ru/vacancy/37216498	hh.ru
+Senior Data Science Engineer	None	None	https://hh.ru/vacancy/37097624	hh.ru
+Senior C/C++/Java Software Engineer (JVM, Open Source)	None	None	https://hh.ru/vacancy/36635711	hh.ru
+NLP Team Leader (PHD)	None	None	https://hh.ru/vacancy/37037088	hh.ru
+QA Engineer - Sales Home	None	220 000 руб.	https://hh.ru/vacancy/37036422	hh.ru
+IDE Tools integration Engineer	None	None	https://hh.ru/vacancy/37153275	hh.ru
+Юрист (кредитование МСБ)	None	None	https://hh.ru/vacancy/37226660	hh.ru
+Fullstack developer - Sales Home	None	180 000 руб.	https://hh.ru/vacancy/37036308	hh.ru
+Machine Learning Research Engineer / Инженер отдела исследований и разработок	None	None	https://hh.ru/vacancy/36818130	hh.ru
+Logistics Quality Control Manager (Lesnoy Gorodok)	None	None	https://hh.ru/vacancy/37026920	hh.ru
+Scala разработчик	None	80 000 руб.	https://hh.ru/vacancy/37242001	hh.ru
+Менеджер по привлечению инвестиций (Private Banking)	None	None	https://hh.ru/vacancy/37175073	hh.ru
+Solutions Consultant	None	None	https://hh.ru/vacancy/36988343	hh.ru
+Системный аналитик / System Analyst	None	None	https://hh.ru/vacancy/37286859	hh.ru
+Дизайнер лендингов / Web-дизайнер	None	None	https://hh.ru/vacancy/37121667	hh.ru
+Senior Software Engineer / TeamLead (Community, Open Source, Java Technology)	None	None	https://hh.ru/vacancy/36635698	hh.ru
+Information Security Engineer	None	None	https://hh.ru/vacancy/37010694	hh.ru
+Senior Software Engineer (Java + JavaScript)	None	None	https://hh.ru/vacancy/37343344	hh.ru
+Senior IoT and AI Security Researcher	None	None	https://hh.ru/vacancy/37117708	hh.ru
+Tools development engineer (OSS Tools, OSS Content/Demo)	None	None	https://hh.ru/vacancy/36635715	hh.ru
+IT Sales manager	None	None	https://hh.ru/vacancy/36999029	hh.ru
+Marketing Analyst	None	None	https://hh.ru/vacancy/36231758	hh.ru
+Marketing Analyst	None	None	https://hh.ru/vacancy/36231774	hh.ru
+Software Engineer (Cloud, Java)	None	None	https://hh.ru/vacancy/36635699	hh.ru
+Back-end C# software developer	None	150 000 руб.	https://hh.ru/vacancy/37120530	hh.ru
+Java Developer	None	None	https://hh.ru/vacancy/36759812	hh.ru
+Senior Software Engineer/ Full Stack	None	None	https://hh.ru/vacancy/36652037	hh.ru
+Аналитик (Моделирование/Скоринг)	None	None	https://hh.ru/vacancy/35606831	hh.ru
+Бизнес-аналитик (Performance & Service Specialist)	None	None	https://hh.ru/vacancy/36891703	hh.ru
+Разработчик ETL (ЕИСЖС)	None	None	https://hh.ru/vacancy/35786436	hh.ru
+Director of Research and Analytics	None	None	https://hh.ru/vacancy/37250058	hh.ru
+Code reviewer (react)	None	None	https://hh.ru/vacancy/37351333	hh.ru
+Ведущий аналитик (на проекты по DWH и BI)	None	None	https://hh.ru/vacancy/36880042	hh.ru
+Инженер-аналитик (data science)	None	None	https://hh.ru/vacancy/37288078	hh.ru
+Инженер-аналитик (data science)	None	None	https://hh.ru/vacancy/37032639	hh.ru
+Data engineer (Data Science platform)	None	None	https://hh.ru/vacancy/37032737	hh.ru
+Local Data Steward – Commercial	None	None	https://hh.ru/vacancy/37046458	hh.ru
+Data Scientist (Computer Vision)	None	None	https://hh.ru/vacancy/36415870	hh.ru
+Data engineer (Data Science platform)	None	None	https://hh.ru/vacancy/37280660	hh.ru
+HR менеджер (Data Science)	70 000 руб.	110 000 руб.	https://hh.ru/vacancy/37363543	hh.ru
+Специалист по анализу изображений	None	None	https://hh.ru/vacancy/37086997	hh.ru
+Главный менеджер по аналитике данных (Data Scientist)	None	None	https://hh.ru/vacancy/37364650	hh.ru
+BUSINESS ANALYST (Francophone countries)	None	None	https://hh.ru/vacancy/37375700	hh.ru
+Senior / Regular QA Automation Engineer	None	None	https://hh.ru/vacancy/37370191	hh.ru
+Data Engineer	None	None	https://hh.ru/vacancy/37375448	hh.ru
+Lead Analyst	None	None	https://hh.ru/vacancy/36776559	hh.ru
+Копирайтер	None	None	https://hh.ru/vacancy/37125133	hh.ru
+Координатор студентов в Практикум	None	None	https://hh.ru/vacancy/36921747	hh.ru
+Куратор в Практикум на программу обучения «Интернет-маркетолог»	50 000 руб.	None	https://hh.ru/vacancy/37243032	hh.ru
+Наставник в Практикум на программу обучения "Веб-разработчик"	None	None	https://hh.ru/vacancy/37060370	hh.ru
+Analyst (Management Consulting)	None	None	https://hh.ru/vacancy/37368447	hh.ru
+Senior QA Automation (Java) Engineer	None	None	https://hh.ru/vacancy/34661494	hh.ru
+SQL-программист	None	None	https://hh.ru/vacancy/35506618	hh.ru
+Senior QA Automation (Java) Engineer	None	None	https://hh.ru/vacancy/34719613	hh.ru
+Наставник в Практикум на программу обучения "Инженер по тестированию"	None	None	https://hh.ru/vacancy/37077289	hh.ru
+Head of Marketing Analytics	None	None	https://hh.ru/vacancy/37030488	hh.ru
+Наставник в Практикум на программу обучения "Бэкенд-разработчик"	None	None	https://hh.ru/vacancy/37027630	hh.ru
+Senior Data Analyst	None	None	https://hh.ru/vacancy/36413915	hh.ru
+Менеджер по анализу больших данных (Big data)	None	None	https://hh.ru/vacancy/36851890	hh.ru
+Аналитик (социолог)	None	None	https://hh.ru/vacancy/36089360	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36160619	hh.ru
+Senior director (Supply Chain Management)	None	None	https://hh.ru/vacancy/37362444	hh.ru
+Senior Backend Developer (Java + Python)	None	None	https://hh.ru/vacancy/37368426	hh.ru
+Compiler Engineer	None	None	https://hh.ru/vacancy/37368686	hh.ru
+Data Scientist	None	110 000 руб.	https://hh.ru/vacancy/37003152	hh.ru
+Java/Kotlin Software Engineer	None	None	https://hh.ru/vacancy/36607615	hh.ru
+Data Engineer/ BI Developer	None	None	https://hh.ru/vacancy/36182291	hh.ru
+Software Engineer	None	None	https://hh.ru/vacancy/36891350	hh.ru
+Архитектор ПО	None	None	https://hh.ru/vacancy/37374942	hh.ru
+Senior Product Manager (Core Team)	None	None	https://hh.ru/vacancy/36970950	hh.ru
+Стажер в Data Science Stream Департамента по управлению данными	40 000 руб.	40 000 руб.	https://hh.ru/vacancy/37356367	hh.ru
+Data Scientists Middle/Senior	None	None	https://hh.ru/vacancy/35723655	hh.ru
+Code reviewer (Node.js)	None	None	https://hh.ru/vacancy/37153420	hh.ru
+Data Analytics Intern / Стажер по направлению «Анализ данных»	None	None	https://hh.ru/vacancy/36953834	hh.ru
+ETL разработчик	None	None	https://hh.ru/vacancy/36886079	hh.ru
+Middle Data Analyst	None	None	https://hh.ru/vacancy/36955295	hh.ru
+Code reviewer (Python)	None	None	https://hh.ru/vacancy/36564534	hh.ru
+Chief Project Engineer	None	None	https://hh.ru/vacancy/37356191	hh.ru
+Бизнес-аналитик	None	None	https://hh.ru/vacancy/37356372	hh.ru
+Инженер HADOOP	None	None	https://hh.ru/vacancy/37350939	hh.ru
+Code reviewer (С++)	None	None	https://hh.ru/vacancy/37203751	hh.ru
+Tech Cooperation manager (Chinese language)	None	None	https://hh.ru/vacancy/37352103	hh.ru
+Главный аналитик-математик (Data Analyst / Data Scientist)	None	None	https://hh.ru/vacancy/30250856	hh.ru
+CRM System Analyst	None	None	https://hh.ru/vacancy/37342673	hh.ru
+Data Science	None	None	https://hh.ru/vacancy/36587607	hh.ru
+Front-End Engineer (React)	None	None	https://hh.ru/vacancy/36324853	hh.ru
+Chief Data Officer (Управляющий директор центра управления данными)	None	None	https://hh.ru/vacancy/37337338	hh.ru
+Chief Data Officer (Управляющий директор центра управления данными)	None	None	https://hh.ru/vacancy/37337343	hh.ru
+Программист-математик	None	None	https://hh.ru/vacancy/30234738	hh.ru
+Data scientist	None	None	https://hh.ru/vacancy/37125488	hh.ru
+Sales manager (English)	None	None	https://hh.ru/vacancy/36984813	hh.ru
+Менеджер по продажам (направление IT)	70 000 руб.	100 000 руб.	https://hh.ru/vacancy/37036843	hh.ru
+Data scientist	None	None	https://hh.ru/vacancy/37125498	hh.ru
+Data Scientist / Senior Data Scientist (Python)	None	None	https://hh.ru/vacancy/34251157	hh.ru
+Senior Golang Developer (remote, HQ in Cupertino, USA)	None	6 000 USD	https://hh.ru/vacancy/37349013	hh.ru
+Senior .Net FullStack Developer в команду Collateral Management	None	None	https://hh.ru/vacancy/37343465	hh.ru
+Менеджер продукта R&D	None	None	https://hh.ru/vacancy/37318832	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/37299638	hh.ru
+Junior/Middle Data Scientist	None	None	https://hh.ru/vacancy/36715837	hh.ru
+Data Engineer	None	None	https://hh.ru/vacancy/37335018	hh.ru
+Data Engineer	None	None	https://hh.ru/vacancy/37335010	hh.ru
+Главный специалист Data Science	None	None	https://hh.ru/vacancy/37324548	hh.ru
+Code reviewer ( HTML, CSS, JavaScript)	None	None	https://hh.ru/vacancy/37153418	hh.ru
+Full-Stack Node.JS Developer (AWS)	None	200 000 руб.	https://hh.ru/vacancy/37337601	hh.ru
+Data Analyst / Игровой аналитик / Game Development	None	None	https://hh.ru/vacancy/36613113	hh.ru
+Lead Big Data Engineer	None	None	https://hh.ru/vacancy/37335003	hh.ru
+Data/Business Analyst	None	None	https://hh.ru/vacancy/37334281	hh.ru
+Lead Big Data Engineer	None	None	https://hh.ru/vacancy/37334948	hh.ru
+Преподаватель курса "Анализ данных и машинное обучение"	None	None	https://hh.ru/vacancy/37332883	hh.ru
+Senior Java Developer (USA - remote)	None	None	https://hh.ru/vacancy/36845654	hh.ru
+Менеджер проектов / Координатор съемок	None	50 000 руб.	https://hh.ru/vacancy/37327376	hh.ru
+Аналитик BI / Data scientist	None	None	https://hh.ru/vacancy/37095774	hh.ru
+Специалист по внедрению бизнес-приложений	None	None	https://hh.ru/vacancy/37007176	hh.ru
+Technical Lead в Data Science-команду/Data Engineer	None	None	https://hh.ru/vacancy/37111755	hh.ru
+AI algorithm library Team Leader	None	None	https://hh.ru/vacancy/36741488	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/37312880	hh.ru
+Software Developer (PyCharm For Data Science)	None	200 000 руб.	https://hh.ru/vacancy/35336500	hh.ru
+Software Developer (PyCharm For Data Science)	None	200 000 руб.	https://hh.ru/vacancy/35336501	hh.ru
+Product Manager (Datalore)	None	None	https://hh.ru/vacancy/37314233	hh.ru
+Product Manager (Datalore)	None	None	https://hh.ru/vacancy/37314234	hh.ru
+Разработчик ETL	None	None	https://hh.ru/vacancy/36519285	hh.ru
+Technical Lead (Node.js)	None	None	https://hh.ru/vacancy/37320609	hh.ru
+Technical Lead (Node.js)	None	None	https://hh.ru/vacancy/37320592	hh.ru
+Ведущий системный аналитик	None	None	https://hh.ru/vacancy/37329799	hh.ru
+Senior iOS developer	None	None	https://hh.ru/vacancy/37324184	hh.ru
+QA Lead/Старший инженер по автотестированию	None	None	https://hh.ru/vacancy/37292612	hh.ru
+Системный инженер (обучение Big Data)	None	None	https://hh.ru/vacancy/37321683	hh.ru
+Data Engineer	None	None	https://hh.ru/vacancy/37313612	hh.ru
+Lead JavaScript (Full Stack) Engineer	None	None	https://hh.ru/vacancy/37320405	hh.ru
+Lead JavaScript (Full Stack) Engineer	None	None	https://hh.ru/vacancy/37320344	hh.ru
+Data Analyst	None	None	https://hh.ru/vacancy/37313771	hh.ru
+Lead Data Scientist в Дивизион Особенные Решения (Блок Розничный Бизнес)	None	None	https://hh.ru/vacancy/36874620	hh.ru
+Senior Backend Developer (ruby/node.js/go)	5 000 USD	6 000 USD	https://hh.ru/vacancy/36741977	hh.ru
+Senior Data Engineer	None	None	https://hh.ru/vacancy/36703087	hh.ru
+Data Analyst	None	None	https://hh.ru/vacancy/37313262	hh.ru
+Marketing research manager (Kotlin)	None	None	https://hh.ru/vacancy/33465835	hh.ru
+Аналитик данных	120 000 руб.	150 000 руб.	https://hh.ru/vacancy/37314500	hh.ru
+Методист линейки менеджмента	None	80 000 руб.	https://hh.ru/vacancy/37012123	hh.ru
+Data Analyst	None	None	https://hh.ru/vacancy/37309198	hh.ru
+Analyst/Data Science Specialist	None	None	https://hh.ru/vacancy/29609893	hh.ru
+Regulatory Affairs Manager	None	None	https://hh.ru/vacancy/36556979	hh.ru
+Аналитик данных	38 000 руб.	62 000 руб.	https://hh.ru/vacancy/36409959	hh.ru
+Методист онлайн университета (линейка аналитики)	None	80 000 руб.	https://hh.ru/vacancy/36592266	hh.ru
+Legal Counsel	None	None	https://hh.ru/vacancy/37299984	hh.ru
+Big Data Engineer	None	None	https://hh.ru/vacancy/37303861	hh.ru
+Data scientist	None	None	https://hh.ru/vacancy/37292440	hh.ru
+Senior Sales Manager (O&G, Digital)	None	None	https://hh.ru/vacancy/37313746	hh.ru
+DevOps инженер / ML Data engineer	None	None	https://hh.ru/vacancy/35853354	hh.ru
+Python developer (Data Engineer)	None	None	https://hh.ru/vacancy/33647219	hh.ru
+Java-разработчик (middle)	None	None	https://hh.ru/vacancy/36600437	hh.ru
+IT auditor	None	None	https://hh.ru/vacancy/28099593	hh.ru
+Аналитик в Delivery Club	None	None	https://hh.ru/vacancy/37307322	hh.ru
+Head of IT infrastructure	None	None	https://hh.ru/vacancy/37301031	hh.ru
+Специалист по работе с просроченной задолженностью	None	None	https://hh.ru/vacancy/36702923	hh.ru
+Java-разработчик (middle)	None	None	https://hh.ru/vacancy/36683307	hh.ru
+Senior Front End (React) Engineer	None	None	https://hh.ru/vacancy/34867384	hh.ru
+Senior Front End (React) Engineer	None	None	https://hh.ru/vacancy/34867413	hh.ru
+Java разработчик	None	None	https://hh.ru/vacancy/37314532	hh.ru
+Receptionist / Call Centre Assistant (Health Assessment Programs) (work percentage from 50% to 100%	None	None	https://hh.ru/vacancy/37297172	hh.ru
+Senior Node.js (Full Stack) Engineer	None	None	https://hh.ru/vacancy/34661400	hh.ru
+Senior Node.js (Full Stack) Engineer	None	None	https://hh.ru/vacancy/34774511	hh.ru
+Java разработчик (Middle+)	None	None	https://hh.ru/vacancy/37298457	hh.ru
+System High Reliability Leading Expert	None	None	https://hh.ru/vacancy/37282164	hh.ru
+Java developer	None	None	https://hh.ru/vacancy/37311696	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/30065191	hh.ru
+Deep Learning Manager (Computer Vision, Neural Network Compression)	None	None	https://hh.ru/vacancy/37293592	hh.ru
+BI Data Engineer	None	None	https://hh.ru/vacancy/36146753	hh.ru
+Data engineer/ Data analyst (Hadoop)	None	None	https://hh.ru/vacancy/37280700	hh.ru
+Аналитик-математик (Data scientist)	80 000 руб.	100 000 руб.	https://hh.ru/vacancy/37020699	hh.ru
+Middle Ansible DevOps инженер	None	None	https://hh.ru/vacancy/37297595	hh.ru
+Middle Ansible DevOps инженер	None	None	https://hh.ru/vacancy/37297596	hh.ru
+BI Analyst	None	None	https://hh.ru/vacancy/36909127	hh.ru
+Data Engineer в команду Performance Advertising	None	None	https://hh.ru/vacancy/36856006	hh.ru
+Senior cпециалист по контекстной и таргетированной рекламе (IT сфера)	None	None	https://hh.ru/vacancy/37285836	hh.ru
+Manager - Visa Consulting	None	None	https://hh.ru/vacancy/37281855	hh.ru
+Java-разработчик	None	None	https://hh.ru/vacancy/37290201	hh.ru
+Программист-разработчик (SQL)	100 000 руб.	250 000 руб.	https://hh.ru/vacancy/36870101	hh.ru
+Java разработчик	None	None	https://hh.ru/vacancy/37292474	hh.ru
+BI Senior Developer	None	None	https://hh.ru/vacancy/36909130	hh.ru
+Senior Java разработчик	None	None	https://hh.ru/vacancy/37291017	hh.ru
+Преподаватель по курсу "Аналитик данных" (спикер)	None	None	https://hh.ru/vacancy/37246162	hh.ru
+Финансовый аналитик / Экономист-аналитик	60 000 руб.	100 000 руб.	https://hh.ru/vacancy/36902529	hh.ru
+Ведущий программист 1С	100 000 руб.	200 000 руб.	https://hh.ru/vacancy/36869917	hh.ru
+Solution Architect	None	None	https://hh.ru/vacancy/35330621	hh.ru
+IOS engineer	None	None	https://hh.ru/vacancy/37029661	hh.ru
+Ведущий инженер по разработке	None	None	https://hh.ru/vacancy/37005114	hh.ru
+Android developer	None	None	https://hh.ru/vacancy/37285156	hh.ru
+IOS Developer	None	None	https://hh.ru/vacancy/35078481	hh.ru
+Аналитик (data scientist)	60 000 руб.	120 000 руб.	https://hh.ru/vacancy/37251546	hh.ru
+Android Developer	None	None	https://hh.ru/vacancy/36875580	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36519811	hh.ru
+Data Analytics Specialist	None	None	https://hh.ru/vacancy/37234149	hh.ru
+Разработчик в области ML ( images / data science)	None	None	https://hh.ru/vacancy/37228910	hh.ru
+Аналитик Data Science/Разработчик алгоритмов Loginom	None	None	https://hh.ru/vacancy/37243638	hh.ru
+PV Hub Data Entry Associate	None	None	https://hh.ru/vacancy/37231784	hh.ru
+Quantitative Researcher	None	None	https://hh.ru/vacancy/36518703	hh.ru
+Senior C++/Python Developer (Program Planner)	None	None	https://hh.ru/vacancy/36811802	hh.ru
+Data Scientist/Senior Data Scientist	None	None	https://hh.ru/vacancy/37246771	hh.ru
+Data scientist	None	None	https://hh.ru/vacancy/37238631	hh.ru
+Аналитик / Data scientist	None	None	https://hh.ru/vacancy/36638171	hh.ru
+Product Manager	None	None	https://hh.ru/vacancy/21963813	hh.ru
+Product Manager	None	None	https://hh.ru/vacancy/26659765	hh.ru
+Data engineer	None	None	https://hh.ru/vacancy/37242174	hh.ru
+Менеджер по привлечению клиентов (IT онлайн-обучение)	60 000 руб.	100 000 руб.	https://hh.ru/vacancy/37248938	hh.ru
+Главный архитектор Anaplan	None	None	https://hh.ru/vacancy/37243654	hh.ru
+Ведущий инженер по тестированию (ВЭД)	None	None	https://hh.ru/vacancy/37232293	hh.ru
+С++ разработчик	None	None	https://hh.ru/vacancy/36449179	hh.ru
+Архитектор Больших данных	None	None	https://hh.ru/vacancy/37247641	hh.ru
+Senior Python/SQL developer	None	None	https://hh.ru/vacancy/35847547	hh.ru
+Senior Java Developer	None	None	https://hh.ru/vacancy/36731797	hh.ru
+Senior Java Developer	None	None	https://hh.ru/vacancy/36731798	hh.ru
+Lead Front-end developer	None	3 000 USD	https://hh.ru/vacancy/30653181	hh.ru
+Business Analyst	None	None	https://hh.ru/vacancy/37226882	hh.ru
+Senior .net Backend Developer (remote)	None	160 000 руб.	https://hh.ru/vacancy/37246566	hh.ru
+Senior Java Developer	None	None	https://hh.ru/vacancy/36737205	hh.ru
+Head of IS methodology and master data section / Начальник отдела методологии и нормативно-справочно	None	None	https://hh.ru/vacancy/37206994	hh.ru
+Senior Java Developer	None	None	https://hh.ru/vacancy/36737109	hh.ru
+Senior Java Developer	None	None	https://hh.ru/vacancy/36737078	hh.ru
+Старший/ведущий functional Scala разработчик (Белград, Сербия)	4 000 USD	6 500 USD	https://hh.ru/vacancy/37227806	hh.ru
+Senior .NET developer / Старший разработчик	None	3 000 USD	https://hh.ru/vacancy/26983093	hh.ru
+Senior Data Scientist	None	None	https://hh.ru/vacancy/36912049	hh.ru
+Full-stack Senior Developer	None	3 000 USD	https://hh.ru/vacancy/30270817	hh.ru
+AI Research Engineer [Computer Vision, Machine Learning, Algorithms]	None	None	https://hh.ru/vacancy/37223050	hh.ru
+Руководитель отдела архитектуры корпоративных данных	None	None	https://hh.ru/vacancy/37226515	hh.ru
+System Analyst (Life Science)	100 000 руб.	200 000 руб.	https://hh.ru/vacancy/36440952	hh.ru
+Developer Python/Scala/Spark	None	None	https://hh.ru/vacancy/36693681	hh.ru
+Старший/ведущий/главный специалист (Data science specialist) Отдела разработки моделей кред. рисков	None	None	https://hh.ru/vacancy/37217313	hh.ru
+Analyst (CI.External data and triggers)	None	None	https://hh.ru/vacancy/37104208	hh.ru
+Clinical Research Associate/Senior Clinical Research Associate	None	None	https://hh.ru/vacancy/37186000	hh.ru
+Software Engineer (ML algorithm implementation)	None	None	https://hh.ru/vacancy/37223172	hh.ru
+Junior Data Analyst	None	None	https://hh.ru/vacancy/37190250	hh.ru
+Технический аналитик [id41401]	None	None	https://hh.ru/vacancy/36293626	hh.ru
+AI Research Engineer [Computer Vision, Machine Learning, Algorithms]	None	None	https://hh.ru/vacancy/37220166	hh.ru
+AI Sensors Algorithms Engineer (DSP)	None	None	https://hh.ru/vacancy/37223061	hh.ru
+Medical Science Liaison / MSL Cardio	None	None	https://hh.ru/vacancy/36780875	hh.ru
+AI Sensors Algorithms Engineer (DSP)	None	None	https://hh.ru/vacancy/37220237	hh.ru
+Software Engineer	None	None	https://hh.ru/vacancy/37220155	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36800183	hh.ru
+Senior Data Scientist	None	None	https://hh.ru/vacancy/37176449	hh.ru
+Data Analyst / Аналитик больших данных	None	None	https://hh.ru/vacancy/37190219	hh.ru
+Data scientist / Machine learning engineer в команду Видео	None	None	https://hh.ru/vacancy/37182202	hh.ru
+Менеджер по продажам	35 000 руб.	170 000 руб.	https://hh.ru/vacancy/37222984	hh.ru
+Full-Stack Node.JS Developer (AWS)	None	180 000 руб.	https://hh.ru/vacancy/37217800	hh.ru
+Senior DevOps Engineer	None	None	https://hh.ru/vacancy/37224899	hh.ru
+Аналитик (коммерция)	None	None	https://hh.ru/vacancy/37193565	hh.ru
+Программатик менеджер	None	None	https://hh.ru/vacancy/36412266	hh.ru
+Senior data science	None	None	https://hh.ru/vacancy/36815679	hh.ru
+Senior data science	None	None	https://hh.ru/vacancy/36815680	hh.ru
+Fullstack developer	None	None	https://hh.ru/vacancy/36782476	hh.ru
+Исследователь-экономист (research analyst in economics)	60 000 руб.	120 000 руб.	https://hh.ru/vacancy/30995943	hh.ru
+Middle QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37198978	hh.ru
+Middle QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37198769	hh.ru
+Senior Data Scientist (Deep Learning)	None	None	https://hh.ru/vacancy/35304556	hh.ru
+Java-разработчик в Казань	None	None	https://hh.ru/vacancy/37197586	hh.ru
+Senior QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37199702	hh.ru
+Senior QA Automation (JavaScript) Engineer, LIMS project	None	None	https://hh.ru/vacancy/37199674	hh.ru
+Principal / Director (Technology Solutions)	None	None	https://hh.ru/vacancy/37188823	hh.ru
+IOS Developer	None	None	https://hh.ru/vacancy/37194599	hh.ru
+Data Scientist (блок риски)	None	None	https://hh.ru/vacancy/35217354	hh.ru
+Junior Data scientist / Big data аналитик	30 000 руб.	40 000 руб.	https://hh.ru/vacancy/37160136	hh.ru
+Data Scientist (Junior)	None	None	https://hh.ru/vacancy/36815254	hh.ru
+Senior Data Scientist (Surge Pricing)	None	None	https://hh.ru/vacancy/35409042	hh.ru
+System Engineer	None	None	https://hh.ru/vacancy/37197439	hh.ru
+Senior R&D Engineer	None	None	https://hh.ru/vacancy/36782712	hh.ru
+Code reviewer (HTML, CSS, JavaScript) со знанием английского языка в Яндекс.Практикум	None	None	https://hh.ru/vacancy/37177077	hh.ru
+Machine Learning Engineer	None	None	https://hh.ru/vacancy/37157055	hh.ru
+Clinical Research Associate / Cпециалист (Монитор) по клиническим исследованиям	None	None	https://hh.ru/vacancy/37157804	hh.ru
+Senior C++ Developer (разработка систем хранения данных)	None	None	https://hh.ru/vacancy/37176196	hh.ru
+Инженер по тестированию	None	None	https://hh.ru/vacancy/35281834	hh.ru
+Android Developer (Java/Kotlin)	None	None	https://hh.ru/vacancy/37182751	hh.ru
+Clinical Research Associate / (Senior/Старший) специалист по клиническим исследованиям	None	None	https://hh.ru/vacancy/37157825	hh.ru
+Senior Frontend Developer Angular	2 000 EUR	4 000 EUR	https://hh.ru/vacancy/37158802	hh.ru
+Category Managing Manager (Oral Healthcare)	None	None	https://hh.ru/vacancy/37159845	hh.ru
+Business Intelligence Engineer	None	None	https://hh.ru/vacancy/37174693	hh.ru
+Business Intelligence Engineer	None	None	https://hh.ru/vacancy/37174628	hh.ru
+Математик - программист	None	None	https://hh.ru/vacancy/37170006	hh.ru
+Data Visualization Engineer	None	None	https://hh.ru/vacancy/37170176	hh.ru
+Data Visualization Engineer	None	None	https://hh.ru/vacancy/37170007	hh.ru
+Senior Scala (Spark) developer	None	None	https://hh.ru/vacancy/37162992	hh.ru
+Senior Data Analyst (Fares)	None	None	https://hh.ru/vacancy/36769444	hh.ru
+Преподаватель Python & Data Science и Machine Learning	None	150 000 руб.	https://hh.ru/vacancy/36437887	hh.ru
+Senior QA Engineer, Gene Biology Editor Tool	None	None	https://hh.ru/vacancy/37175066	hh.ru
+Senior QA Engineer, Gene Biology Editor Tool	None	None	https://hh.ru/vacancy/37174948	hh.ru
+Python Data Scientist	None	None	https://hh.ru/vacancy/37137219	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/37134850	hh.ru
+Backend Developer	2 000 EUR	4 000 EUR	https://hh.ru/vacancy/37158488	hh.ru
+Data scientist/Machine learning engineer в Команду CoreML	None	None	https://hh.ru/vacancy/35493975	hh.ru
+Data Scientist (клиентская аналитика)	None	None	https://hh.ru/vacancy/37153130	hh.ru
+Data Analyst (to Cyprus)	None	None	https://hh.ru/vacancy/37150146	hh.ru
+Преподаватель курсов по облачным технологиям	None	150 000 руб.	https://hh.ru/vacancy/34164405	hh.ru
+System Software Engineer (С)	None	None	https://hh.ru/vacancy/33659438	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36357367	hh.ru
+IT manager	None	None	https://hh.ru/vacancy/36701732	hh.ru
+Риск-технолог	None	None	https://hh.ru/vacancy/36446813	hh.ru
+AI/Big Data Technical Development Expert	None	None	https://hh.ru/vacancy/37145369	hh.ru
+Intern, Clinical Research / Стажёр в отделе клинических исследований	None	None	https://hh.ru/vacancy/37135407	hh.ru
+Intern, Clinical Research / Стажёр в отделе клинических исследований	None	None	https://hh.ru/vacancy/37135386	hh.ru
+Senior Backend Developer (Go)	None	None	https://hh.ru/vacancy/34115215	hh.ru
+Тимлид бэкенд / Teamlead backend	1 400 USD	4 000 USD	https://hh.ru/vacancy/37149645	hh.ru
+DevOps ML (HR-платформа)	None	None	https://hh.ru/vacancy/37145612	hh.ru
+Python разработчик SberDevices	None	None	https://hh.ru/vacancy/36286016	hh.ru
+Software Architect (Frontend, Backend, Cloud, DevOps) / Senior full-stack engineer	None	None	https://hh.ru/vacancy/34251172	hh.ru
+DevOps Engineer (Германия, Эссен)	4 100 EUR	5 800 EUR	https://hh.ru/vacancy/36034566	hh.ru
+Data Engineer	None	None	https://hh.ru/vacancy/37143286	hh.ru
+Software Engineer (Java)	None	None	https://hh.ru/vacancy/36787627	hh.ru
+Intern, Clinical Research / Стажёр в отделе клинических исследований	None	None	https://hh.ru/vacancy/37135563	hh.ru
+Data engineer (Клиентская аналитика)	None	None	https://hh.ru/vacancy/37138728	hh.ru
+Java разработчик	None	None	https://hh.ru/vacancy/37147019	hh.ru
+Администратор Hadoop	None	None	https://hh.ru/vacancy/35877651	hh.ru
+Data Scientist (Middle/Senior) - моделирование кредитных рисков корпоративных клиентов (Блок Риски)	None	None	https://hh.ru/vacancy/33462158	hh.ru
+Product Analyst	None	None	https://hh.ru/vacancy/37145293	hh.ru
+QA Automation Engineer в Saving products	None	None	https://hh.ru/vacancy/37132154	hh.ru
+Senior Python Engineer	None	None	https://hh.ru/vacancy/36886171	hh.ru
+Senior Python Engineer	None	None	https://hh.ru/vacancy/36886225	hh.ru
+Java developer (Middle)	100 000 руб.	130 000 руб.	https://hh.ru/vacancy/37152735	hh.ru
+Разработчик Python	100 000 руб.	140 000 руб.	https://hh.ru/vacancy/37139073	hh.ru
+Senior Python (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36886419	hh.ru
+Senior Python (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36886481	hh.ru
+Java-разработчик (middle)	None	None	https://hh.ru/vacancy/36055250	hh.ru
+Operations Planning Manager	None	None	https://hh.ru/vacancy/37134994	hh.ru
+Менеджер проектов (Big Data)	230 000 руб.	None	https://hh.ru/vacancy/36544243	hh.ru
+Software Engineer (R language)	None	None	https://hh.ru/vacancy/36764336	hh.ru
+Technical Lead for NLP / Conversational Systems	None	None	https://hh.ru/vacancy/37149413	hh.ru
+Java-разработчик (Севастополь)	None	None	https://hh.ru/vacancy/36774420	hh.ru
+IOS Developer	None	None	https://hh.ru/vacancy/36905903	hh.ru
+Старший/Ведущий аналитик (на проекты по DWH и BI)	None	None	https://hh.ru/vacancy/37133143	hh.ru
+IT Process Analyst (Production, Track & Trace infrastructure)	None	None	https://hh.ru/vacancy/34166457	hh.ru
+Big Data engineer	None	None	https://hh.ru/vacancy/36762565	hh.ru
+Android Developer	None	None	https://hh.ru/vacancy/36657476	hh.ru
+ИТ Бизнес аналитик (IT Process Analyst Manager for GSC Finance business function)	None	None	https://hh.ru/vacancy/37104069	hh.ru
+Python Developer	None	None	https://hh.ru/vacancy/34767945	hh.ru
+Инженер-программист data science, computer vision (middle)	None	None	https://hh.ru/vacancy/36134515	hh.ru
+Senior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880820	hh.ru
+Senior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880859	hh.ru
+Senior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880868	hh.ru
+Senior Data Scientist в NLP лабораторию	None	None	https://hh.ru/vacancy/34880886	hh.ru
+Наставник в Практикум на программу обучения "Data Science"	None	None	https://hh.ru/vacancy/37113748	hh.ru
+Data scientist [id 30603]	None	None	https://hh.ru/vacancy/37112112	hh.ru
+IT - Analytics & Insights / Data Science Intern / Стажер в IT-Аналитике	None	70 000 руб.	https://hh.ru/vacancy/36737956	hh.ru
+Руководитель проектов по цифровизации в логистике	None	None	https://hh.ru/vacancy/36776487	hh.ru
+Менеджер по клиентской аналитике (Data Scientist)	None	None	https://hh.ru/vacancy/37124945	hh.ru
+Автор тестов в Практикум	None	None	https://hh.ru/vacancy/37126650	hh.ru
+Эксперт по кибербезопасности процессов моделирования и машинного обучения (data science)	None	None	https://hh.ru/vacancy/37096254	hh.ru
+Ведущий Python разработчик (ML) в Delivery club	None	None	https://hh.ru/vacancy/36712852	hh.ru
+Therapeutic Area Manager (Hematology)	None	None	https://hh.ru/vacancy/37107519	hh.ru
+Data Science Specialist (NLP)	None	None	https://hh.ru/vacancy/35849387	hh.ru
+YouTube-маркетолог	None	80 000 руб.	https://hh.ru/vacancy/37105088	hh.ru
+Big Data - разработчик	None	None	https://hh.ru/vacancy/37122704	hh.ru
+Senior Business Analyst	None	None	https://hh.ru/vacancy/37120628	hh.ru
+Senior Business Analyst	None	None	https://hh.ru/vacancy/37120527	hh.ru
+Руководитель направления дата аналитики/data science	None	None	https://hh.ru/vacancy/37088953	hh.ru
+Technical Writer	None	None	https://hh.ru/vacancy/36762726	hh.ru
+Бизнес-аналитик (проекты Data Science)	None	None	https://hh.ru/vacancy/36746489	hh.ru
+Senior QA Automation (C#) Engineer	None	None	https://hh.ru/vacancy/36499464	hh.ru
+Senior QA Automation (C#) Engineer	None	None	https://hh.ru/vacancy/36499522	hh.ru
+Senior QA Automation (JavaScript) Engineer, Education Project	None	None	https://hh.ru/vacancy/34259883	hh.ru
+Senior QA Automation (JavaScript) Engineer, Education Project	None	None	https://hh.ru/vacancy/34719951	hh.ru
+Старший методолог по анализу данных (Senior Data Scientist)	None	None	https://hh.ru/vacancy/37073502	hh.ru
+Software Developer C++	None	None	https://hh.ru/vacancy/36622151	hh.ru
+Аналитик данных	180 000 руб.	250 000 руб.	https://hh.ru/vacancy/37098119	hh.ru
+Java-разработчик (Spring) Офис / удаленно	None	None	https://hh.ru/vacancy/37104450	hh.ru
+Data-инженер	None	None	https://hh.ru/vacancy/37108627	hh.ru
+Руководитель направления НИОКР [id21823]	None	None	https://hh.ru/vacancy/36754893	hh.ru
+Data Science Team Lead (Сегмента Авто)	None	None	https://hh.ru/vacancy/37095427	hh.ru
+Senior Data Scientist (УТФ)	None	None	https://hh.ru/vacancy/37021862	hh.ru
+IT Recruiter	None	None	https://hh.ru/vacancy/36529313	hh.ru
+Senior Data Scientist (Дивизион ЦКР)	None	None	https://hh.ru/vacancy/36940290	hh.ru
+Principal / Director (Technology Solutions)	None	None	https://hh.ru/vacancy/37100419	hh.ru
+Product Data Analyst	None	None	https://hh.ru/vacancy/37086765	hh.ru
+Специалист по веб-аналитике (Digital analytics specialist)	60 000 руб.	120 000 руб.	https://hh.ru/vacancy/37108393	hh.ru
+Методист онлайн университета	None	80 000 руб.	https://hh.ru/vacancy/36765224	hh.ru
+Head of FP&A	None	None	https://hh.ru/vacancy/36736825	hh.ru
+Senior Data Engineer (Spark)	None	None	https://hh.ru/vacancy/37081269	hh.ru
+Data Scientist в Корпоративно-Инвестиционный Блок Банка	None	None	https://hh.ru/vacancy/36550195	hh.ru
+Middle Data Scientist (Цифровой кредитный мониторинг)	None	None	https://hh.ru/vacancy/36766431	hh.ru
+Генетик – аналитик данных (data scientist)	None	None	https://hh.ru/vacancy/37073561	hh.ru
+Менеджер по исследованию больших данных (Data Scientist)	None	None	https://hh.ru/vacancy/36749314	hh.ru
+Руководитель направления по исследованию данных(Data Scientist)	None	None	https://hh.ru/vacancy/34777225	hh.ru
+Ведущий backend-разработчик	200 000 руб.	300 000 руб.	https://hh.ru/vacancy/37105461	hh.ru
+AI Algorithm Expert / Senior Engineer	None	None	https://hh.ru/vacancy/37097204	hh.ru
+Data scientist (Центр валидации моделей розничного бизнеса)	None	None	https://hh.ru/vacancy/36614923	hh.ru
+Разработчик Python/Go	None	None	https://hh.ru/vacancy/37086966	hh.ru
+Senior Data Scientist	None	None	https://hh.ru/vacancy/37064677	hh.ru
+Data Scientist (разработка скоринговых моделей)	None	None	https://hh.ru/vacancy/37052134	hh.ru
+Delivery Manager	None	None	https://hh.ru/vacancy/37101425	hh.ru
+Наставник в Практикум на программу обучения "Интернет-маркетолог"	None	None	https://hh.ru/vacancy/37083636	hh.ru
+Аналитик БД / BI Разработчик	None	None	https://hh.ru/vacancy/37085689	hh.ru
+Senior Backend developer (Python/Go)	None	None	https://hh.ru/vacancy/35681002	hh.ru
+Blockchain developer	None	None	https://hh.ru/vacancy/36714928	hh.ru
+Специалист по математическому моделированию	None	None	https://hh.ru/vacancy/36093561	hh.ru
+Frontend Developer (DIH)	None	None	https://hh.ru/vacancy/36749451	hh.ru
+Frontend Developer (DIH)	None	None	https://hh.ru/vacancy/36749452	hh.ru
+ML- инженер (HR-платформа)	None	None	https://hh.ru/vacancy/36934296	hh.ru
+Data scientist	None	None	https://hh.ru/vacancy/36915671	hh.ru
+Lead Data Scientist (RecSys) at Sberbank Corporate	None	None	https://hh.ru/vacancy/36550187	hh.ru
+AI Researcher Tech Leader	None	None	https://hh.ru/vacancy/36804909	hh.ru
+Наставник в Практикум на программу обучения "Аналитик данных"	None	None	https://hh.ru/vacancy/37076505	hh.ru
+Помощник генерального директора	None	100 000 руб.	https://hh.ru/vacancy/37057123	hh.ru
+Менеджер продукта (аналитическая платформа myTracker)	None	None	https://hh.ru/vacancy/37074776	hh.ru
+Inside Sales Representative (IT / IoT / Automation)	None	80 000 руб.	https://hh.ru/vacancy/37077235	hh.ru
+Специалист по проверке кода DA/DS в Яндекс.Практикум (со знанием английского языка)	None	None	https://hh.ru/vacancy/37086603	hh.ru
+Руководитель проектов / Project Manager (IT)	None	None	https://hh.ru/vacancy/37086492	hh.ru
+Специалист судебного взыскания	None	None	https://hh.ru/vacancy/37043451	hh.ru
+DevOps Engineer (Cyprus)	None	None	https://hh.ru/vacancy/37143541	hh.ru
+Специалист по машинному обучению (Data Scientist)	None	None	https://hh.ru/vacancy/35894037	hh.ru
+Аналитик по работе с поставщиками	None	None	https://hh.ru/vacancy/36569987	hh.ru
+Data scientist	None	None	https://hh.ru/vacancy/37029031	hh.ru
+Научный сотрудник (Компьютерное моделирование и прогнозирование в финансовой сфере)	None	100 000 руб.	https://hh.ru/vacancy/33609223	hh.ru
+Computer Vision developer (machine learning, python)	None	None	https://hh.ru/vacancy/37017038	hh.ru
+Научный сотрудник (Машинное обучение и анализ данных в социальных и экономических системах)	None	100 000 руб.	https://hh.ru/vacancy/33608720	hh.ru
+Data Science specialist	None	None	https://hh.ru/vacancy/37014405	hh.ru
+Бизнес-аналитик	None	None	https://hh.ru/vacancy/37051637	hh.ru
+Java Developer Инженер-программист в проект "Интернет вещей"	None	None	https://hh.ru/vacancy/32137281	hh.ru
+Frontend Developer	None	None	https://hh.ru/vacancy/36732312	hh.ru
+Frontend Developer	None	None	https://hh.ru/vacancy/36732313	hh.ru
+Technical Lead for NLP / Conversational Systems	None	None	https://hh.ru/vacancy/36859047	hh.ru
+Аналитик Data Science	None	None	https://hh.ru/vacancy/36245249	hh.ru
+Старший аналитик	None	None	https://hh.ru/vacancy/37042345	hh.ru
+Специалист-исследователь / Deep Learning Research Engineer	None	None	https://hh.ru/vacancy/34410405	hh.ru
+Software Engineer: iOS Audio and Chat App	None	None	https://hh.ru/vacancy/37057107	hh.ru
+Консультант направления «Data Science/Applied intelligence»	None	None	https://hh.ru/vacancy/35357626	hh.ru
+Frontend Developer (Германия, Эссен)	4 100 EUR	5 800 EUR	https://hh.ru/vacancy/36034483	hh.ru
+Разработчик программного обеспечения / Backend Developer (Java / C++)	None	None	https://hh.ru/vacancy/37070638	hh.ru
+Director of Product Development	None	None	https://hh.ru/vacancy/37030487	hh.ru
+3D Machine Learning Research and Development Engineer	None	None	https://hh.ru/vacancy/36734347	hh.ru
+ML engineer	None	None	https://hh.ru/vacancy/37029032	hh.ru
+ML engineer	None	None	https://hh.ru/vacancy/37029033	hh.ru
+ML engineer	None	None	https://hh.ru/vacancy/37029034	hh.ru
+ML engineer	None	None	https://hh.ru/vacancy/37029035	hh.ru
+Программист C# / Разработчик Unity	None	None	https://hh.ru/vacancy/37048494	hh.ru
+Начальник отдела разработки решений по анализу естественного языка (NLP) [id42624]	None	None	https://hh.ru/vacancy/36252345	hh.ru
+ETL Developer	None	None	https://hh.ru/vacancy/33698754	hh.ru
+Senior Scala Developer	None	None	https://hh.ru/vacancy/34410333	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/37012218	hh.ru
+Главный инженер по разработке JS	None	None	https://hh.ru/vacancy/37025195	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/37010627	hh.ru
+Senior Vulnerability researcher	None	None	https://hh.ru/vacancy/36880153	hh.ru
+Business Analyst	None	None	https://hh.ru/vacancy/37023256	hh.ru
+C++ Developer Mathematician	None	None	https://hh.ru/vacancy/36725608	hh.ru
+Разработчик Python (Развитие Bigdata)	None	None	https://hh.ru/vacancy/35236202	hh.ru
+Senior Java Developer	None	None	https://hh.ru/vacancy/37035928	hh.ru
+Data Analyst ( to Cyprus)	None	None	https://hh.ru/vacancy/37150137	hh.ru
+Специалист-исследователь (Data science & information security)	None	None	https://hh.ru/vacancy/35202186	hh.ru
+Senior Data Engineer/Data Engineer	None	None	https://hh.ru/vacancy/36679059	hh.ru
+Data-аналитик/ Продуктовый аналитик	None	None	https://hh.ru/vacancy/36673838	hh.ru
+Внутренний контролер-аудитор	None	None	https://hh.ru/vacancy/37006346	hh.ru
+Scala Developer	None	None	https://hh.ru/vacancy/36207640	hh.ru
+Senior Rust Developer	None	None	https://hh.ru/vacancy/36207622	hh.ru
+Senior Scala Developer / Team Lead	None	None	https://hh.ru/vacancy/36207669	hh.ru
+Intern, Corporate Intelligence Group, Forensic Department Voronezh	None	None	https://hh.ru/vacancy/37008274	hh.ru
+EHS Engineer	None	None	https://hh.ru/vacancy/36973122	hh.ru
+Product Manager/Analyst	None	None	https://hh.ru/vacancy/37000828	hh.ru
+Supply Chain Data Senior Analyst	None	None	https://hh.ru/vacancy/36966585	hh.ru
+Senior Data Scientist	None	None	https://hh.ru/vacancy/36859214	hh.ru
+Data Scientist (Big Data)	None	None	https://hh.ru/vacancy/36982968	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36951571	hh.ru
+Специалист call-центра (направление PRE Collection)	None	None	https://hh.ru/vacancy/36998920	hh.ru
+Стажер подразделения Информационные технологии	None	None	https://hh.ru/vacancy/37000713	hh.ru
+Data Engineer (Big Data)	None	None	https://hh.ru/vacancy/36983051	hh.ru
+Leading R&D Engineer (Data Science in Energy)	None	None	https://hh.ru/vacancy/36987958	hh.ru
+Data Analyst (Big Data)	None	None	https://hh.ru/vacancy/36982985	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36667663	hh.ru
+Java-разработчик	None	None	https://hh.ru/vacancy/36679624	hh.ru
+Senior Security Operations Center Engineer	None	None	https://hh.ru/vacancy/37004802	hh.ru
+Team-Lead/Senior data scientist	None	None	https://hh.ru/vacancy/36694503	hh.ru
+Team Lead data scientist (коммерческое направление)	None	None	https://hh.ru/vacancy/36691192	hh.ru
+Product Marketing Manager (Продуктовый маркетолог)	None	None	https://hh.ru/vacancy/36100508	hh.ru
+NLP Software Developer / NLP программист-разработчик	None	120 000 руб.	https://hh.ru/vacancy/36741840	hh.ru
+Python разработчик в практику Big Data	None	None	https://hh.ru/vacancy/36986538	hh.ru
+Фронтенд-разработчик (React)	None	None	https://hh.ru/vacancy/34916465	hh.ru
+Разработчик/DevOps в команде Data Science	None	None	https://hh.ru/vacancy/36933963	hh.ru
+Java developer (Big Data)	None	None	https://hh.ru/vacancy/36216059	hh.ru
+Lead Data Scientist	None	None	https://hh.ru/vacancy/36922892	hh.ru
+Data Scientist sas Sber (Дивизион `Массовая персонализация`)	None	None	https://hh.ru/vacancy/36932939	hh.ru
+Senior compliance specialist - CIS Technology services - Internal client services	None	None	https://hh.ru/vacancy/36934150	hh.ru
+Senior Data Scientist (BigData)	None	None	https://hh.ru/vacancy/35203074	hh.ru
+Ведущий разработчик программного обеспечения (Java)	None	90 000 руб.	https://hh.ru/vacancy/34916520	hh.ru
+Data Scientist	None	None	https://hh.ru/vacancy/36545229	hh.ru
+Senior Azure DevOps Engineer	None	None	https://hh.ru/vacancy/36937740	hh.ru
+Системный аналитик (Big Data)	None	None	https://hh.ru/vacancy/36877190	hh.ru
+Руководитель команды Data Science (Predictive Analytic Solutions)	None	None	https://hh.ru/vacancy/36957660	hh.ru
+Senior Azure DevOps Engineer	None	None	https://hh.ru/vacancy/36937622	hh.ru
+Anti-fraud BigData \ ML developer	None	None	https://hh.ru/vacancy/36937617	hh.ru
+Senior Machine Learning Developer	None	None	https://hh.ru/vacancy/36632357	hh.ru
+Руководитель отдела компетенций NLP / Lead NLP	None	None	https://hh.ru/vacancy/36639908	hh.ru
+Team lead Data Science	180 000 руб.	300 000 руб.	https://hh.ru/vacancy/36627900	hh.ru
+Customer & Consumer Insights Leader	None	None	https://hh.ru/vacancy/36917512	hh.ru
+Data transformation developer	None	None	https://hh.ru/vacancy/36818338	hh.ru
+Presale Engineer (Solution Engineer)	None	None	https://hh.ru/vacancy/36952523	hh.ru
+Руководитель группы анализа ликвидности и работы с маркет-мейкерами	None	None	https://hh.ru/vacancy/36654946	hh.ru
+Strategic Accounts Manager	None	None	https://hh.ru/vacancy/36917501	hh.ru
+Storage Algorithm Engineer	None	None	https://hh.ru/vacancy/36953121	hh.ru
+Senior Frontend React Developer (remote)	None	None	https://hh.ru/vacancy/36983600	hh.ru
+Автор курса "Python для анализа данных"	None	None	https://hh.ru/vacancy/36923229	hh.ru
+Product Marketing Manager-Measurements	None	None	https://hh.ru/vacancy/36907405	hh.ru
+С++ Developer (Threat Research)	None	None	https://hh.ru/vacancy/36620635	hh.ru
+Senior .NET (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36937706	hh.ru
+Senior .NET (Full Stack) Engineer	None	None	https://hh.ru/vacancy/36937647	hh.ru
+Business Analyst	None	None	https://hh.ru/vacancy/36915503	hh.ru
+Senior GCP DevOps Engineer	None	None	https://hh.ru/vacancy/36937876	hh.ru
+Senior GCP DevOps Engineer	None	None	https://hh.ru/vacancy/36937867	hh.ru
+Senior Frontend Developer (React)	None	None	https://hh.ru/vacancy/36967515	hh.ru
+Стажёр (по анализу данных, data science)	None	None	https://hh.ru/vacancy/36154902	hh.ru
+DevOps Architect	None	None	https://hh.ru/vacancy/36493282	hh.ru
+DevOps Architect	None	None	https://hh.ru/vacancy/36493283	hh.ru
+Стажер Sberseasons юрист	None	None	https://hh.ru/vacancy/36915389	hh.ru
+Premium Support Engineer	None	None	https://hh.ru/vacancy/36924258	hh.ru
+Middle/Senior Python Developer	None	None	https://hh.ru/vacancy/35529120	hh.ru
+Enterprise Архитектор Департамента корпоративной архитектуры	None	None	https://hh.ru/vacancy/36911616	hh.ru
+Java / C# developer	None	None	https://hh.ru/vacancy/36924309	hh.ru
+Compilers and Run-time Developer	None	None	https://hh.ru/vacancy/36928101	hh.ru
+Android Developer	None	None	https://hh.ru/vacancy/36924028	hh.ru
+Senior Android developer	None	None	https://hh.ru/vacancy/36634291	hh.ru
+Разработчик навигационных алгоритмов	None	None	https://hh.ru/vacancy/37082078	hh.ru
+Программист data science, computer vision	None	None	https://hh.ru/vacancy/36134600	hh.ru
