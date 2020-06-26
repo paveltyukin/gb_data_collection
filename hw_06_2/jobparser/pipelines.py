@@ -7,20 +7,37 @@
 from pymongo import MongoClient
 
 
-class JobparserPipeline:                            #Класс для обработки item'a
-    def __init__(self):                             #Конструктор, где инициализируем подключение к СУБД
+class JobparserPipeline:
+    # Конструктор, где инициализируем подключение к СУБД
+    def __init__(self):
         client = MongoClient('localhost', 27017)
         self.mongo_base = client.vacansy_hh_scrapy
 
+    # Метод, куда прилетает сформированный item
+    def process_item(self, item, spider):
+        dict_vacancy = {}
+        collection = self.mongo_base[spider.name]
+        dict_vacancy['name'] = item['name']
 
-    def process_item(self, item, spider):           #Метод, куда прилетает сформированный item
-        collection = self.mongo_base[spider.name]   #Выбираем коллекцию по имени паука
-        collection.insert_one(item)                 #Добавляем в базу данных
-        # if spider.name == 'hhru':                 #Зесь можно сделать обработку item в зависимости от имени паука
-        #     pass
+        dict_salary = ' '.join(item['salary']).replace(u'\xa0', '').replace('  ', ',').split(',')
+        try:
+            if dict_salary[0] == 'от' and dict_salary[2] == 'до':
+                dict_vacancy['salary'] = {'from': dict_salary[1].replace(u'\xa0', ''),
+                                          'to': dict_salary[3].replace(u'\xa0', '')
+                                          }
+            elif dict_salary[0] == 'до':
+                dict_vacancy['salary'] = {'from': '-',
+                                          'to': dict_salary[1].replace(u'\xa0', '')
+                                          }
+            elif dict_salary[0] == 'от':
+                dict_vacancy['salary'] = {'from': dict_salary[1].replace(u'\xa0', ''),
+                                          'to': '-'
+                                          }
+            else:
+                dict_vacancy['salary'] = ''.join(dict_salary)
+        except:
+            pass
+
+        dict_vacancy['link'] = item['link']
+        collection.insert_one(dict_vacancy)
         return item
-
-    def __del__(self):                              #Деструктор. Код в нем выполнится, перед уничтожением объекта
-        pass
-
-
