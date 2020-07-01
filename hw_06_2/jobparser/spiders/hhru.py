@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 import scrapy
-from scrapy.http import HtmlResponse  # Для подсказок объекта response
-from jobparser.items import JobparserItem  # Подключаем класс из items
+# Для подсказок объекта response
+from scrapy.http import HtmlResponse
+# Подключаем класс из items
+from jobparser.items import JobparserItem
 
 
 class HhruSpider(scrapy.Spider):

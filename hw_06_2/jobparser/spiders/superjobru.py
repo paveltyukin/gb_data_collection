@@ -24,4 +24,5 @@ class SuperjobruSpider(scrapy.Spider):
         salary_job = response.css('span._1OuF_.ZON4b span._3mfro._2Wp8I.PlM3e._2JVkc::text').extract()
         # Получаем ссылку на вакансию
         link_job = response.url
+        print(1)
         yield JobparserItem(name=name_job, salary=salary_job, link=link_job)
