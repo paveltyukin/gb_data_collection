@@ -10,3 +10,7 @@ if __name__ == '__main__':
     process = CrawlerProcess(settings=crawler_settings)
     process.crawl(InstagramSpider)
     process.start()
+
+
+# db.instaparser.find({type_follow: 'follower', 'user_id': '29397925247'}).count();
+# db.instaparser.find({'following_id': '29397925247'}).count();
